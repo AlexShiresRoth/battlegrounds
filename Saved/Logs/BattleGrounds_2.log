@@ -1,0 +1,1475 @@
+﻿Log file open, 05/29/19 18:54:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BattleGrounds
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.452456
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.470s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.29-22.54.36:246][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.29-22.54.36:246][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.29-22.54.36:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Engine.ini]
+[2019.05.29-22.54.36:246][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.29-22.54.36:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Engine.ini]
+[2019.05.29-22.54.36:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Engine.ini]
+[2019.05.29-22.54.36:246][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.29-22.54.36:246][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.29-22.54.36:246][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.29-22.54.36:246][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.29-22.54.36:246][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.29-22.54.36:246][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.29-22.54.36:246][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.29-22.54.36:246][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.29-22.54.36:246][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.29-22.54.36:246][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.29-22.54.36:246][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.29-22.54.36:246][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.29-22.54.36:246][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.29-22.54.36:246][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Engine.ini]
+[2019.05.29-22.54.36:246][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.29-22.54.36:246][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.29-22.54.36:247][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.29-22.54.36:247][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.29-22.54.36:247][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.29-22.54.36:247][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.29-22.54.36:247][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.29-22.54.36:247][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.29-22.54.36:247][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.29-22.54.36:247][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.29-22.54.36:247][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.29-22.54.36:247][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.29-22.54.36:247][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.29-22.54.36:247][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.29-22.54.36:247][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Engine.ini]
+[2019.05.29-22.54.36:247][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Engine.ini]
+[2019.05.29-22.54.36:250][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.54.36:250][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.29-22.54.36:250][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.29-22.54.36:250][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.54.36:250][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.29-22.54.36:250][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.54.36:250][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.29-22.54.36:250][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.29-22.54.36:250][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.29-22.54.36:250][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.29-22.54.36:250][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.29-22.54.36:250][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.29-22.54.36:251][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.29-22.54.36:251][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.29-22.54.36:251][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.29-22.54.36:304][  0]LogHAL: Display: Platform has ~ 8 GB [8383889408 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.29-22.54.36:304][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.29-22.54.36:304][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.29-22.54.36:304][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2019.05.29-22.54.36:305][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.29-22.54.36:367][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.29-22.54.36:367][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Engine.ini]
+[2019.05.29-22.54.36:367][  0]LogInit: Computer: DESKTOP-K3G4BCU
+[2019.05.29-22.54.36:367][  0]LogInit: User: alexr
+[2019.05.29-22.54.36:367][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.05.29-22.54.36:367][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.29-22.54.36:368][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2019.05.29-22.54.36:368][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.29-22.54.36:368][  0]LogMemory: Process Physical Memory: 102.69 MB used, 102.69 MB peak
+[2019.05.29-22.54.36:368][  0]LogMemory: Process Virtual Memory: 85.10 MB used, 85.10 MB peak
+[2019.05.29-22.54.36:368][  0]LogMemory: Physical Memory: 6957.39 MB used,  1038.11 MB free, 7995.50 MB total
+[2019.05.29-22.54.36:368][  0]LogMemory: Virtual Memory: 4639.76 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.05.29-22.54.36:381][  0]LogInit: Using OS detected language (en-US).
+[2019.05.29-22.54.36:381][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.29-22.54.36:382][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.29-22.54.36:990][  0]LogStreaming: Display: Took  0.609s to InitEngineTextLocalization.
+[2019.05.29-22.54.36:990][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.29-22.54.37:509][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.29-22.54.37:509][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.29-22.54.46:379][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.29-22.54.46:379][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.29-22.54.46:409][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.05.29-22.54.46:409][  0]LogD3D11RHI:       128/0/3997 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.05.29-22.54.46:452][  0]LogD3D11RHI:    1. 'AMD Radeon (TM) RX 570' (Feature Level 11_0)
+[2019.05.29-22.54.46:452][  0]LogD3D11RHI:       4041/0/3997 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2019.05.29-22.54.46:454][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.29-22.54.46:454][  0]LogD3D11RHI:       0/0/3997 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.29-22.54.46:454][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2019.05.29-22.54.46:463][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.29-22.54.46:463][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2019.05.29-22.54.46:463][  0]LogWindows: EnumDisplayDevices:
+[2019.05.29-22.54.46:464][  0]LogWindows:    0. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.05.29-22.54.46:464][  0]LogWindows:    1. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.05.29-22.54.46:464][  0]LogWindows:    2. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.05.29-22.54.46:465][  0]LogWindows:    3. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.05.29-22.54.46:465][  0]LogWindows:    4. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.05.29-22.54.46:465][  0]LogWindows:    5. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.05.29-22.54.46:466][  0]LogWindows:    6. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.05.29-22.54.46:466][  0]LogWindows:    7. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.05.29-22.54.46:467][  0]LogWindows:    8. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.05.29-22.54.46:467][  0]LogWindows:    9. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.05.29-22.54.46:467][  0]LogWindows:    10. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.05.29-22.54.46:468][  0]LogWindows:    11. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.05.29-22.54.46:468][  0]LogWindows:    12. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.05.29-22.54.46:468][  0]LogWindows:    13. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.05.29-22.54.46:469][  0]LogWindows:    14. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.05.29-22.54.46:469][  0]LogWindows:    15. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.05.29-22.54.46:469][  0]LogWindows:    16. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.05.29-22.54.46:470][  0]LogWindows:    17. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.05.29-22.54.46:470][  0]LogWindows:    18. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.05.29-22.54.46:470][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:16 
+[2019.05.29-22.54.46:470][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) RX 570
+[2019.05.29-22.54.46:470][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.7 (internal:23.20.768.12, unified:23.20.768.12)
+[2019.05.29-22.54.46:470][  0]LogD3D11RHI:      Driver Date: 10-26-2017
+[2019.05.29-22.54.46:470][  0]LogRHI: Texture pool is 2828 MB (70% of 4041 MB)
+[2019.05.29-22.54.46:555][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.29-22.54.46:565][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.05.29-22.54.46:855][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.29-22.54.46:867][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.29-22.54.46:879][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.29-22.54.46:890][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.29-22.54.46:917][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.29-22.54.46:928][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.29-22.54.46:940][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.29-22.54.46:952][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.29-22.54.46:958][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.29-22.54.47:025][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.54.47:025][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.54.47:025][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.54.47:025][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.54.47:025][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.54.47:025][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.54.47:025][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.54.47:025][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.54.47:025][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.54.47:025][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.54.47:025][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.54.47:025][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.54.47:025][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.54.47:025][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.54.47:025][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.54.47:025][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.54.47:025][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.54.47:025][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-22.54.47:027][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.29-22.54.47:095][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.29-22.54.47:095][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.29-22.54.47:115][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.29-22.54.47:115][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.29-22.54.47:125][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.29-22.54.47:135][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.29-22.54.47:146][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.29-22.54.47:184][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.29-22.54.47:225][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.29-22.54.47:225][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.29-22.54.47:225][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.29-22.54.47:309][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Intermediate/Shaders/WorkingDirectory/22020/).
+[2019.05.29-22.54.47:309][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alexr/AppData/Local/Temp/UnrealShaderWorkingDir/6684182B492A4F9DD998DCAC0DED463E/'.
+[2019.05.29-22.54.47:311][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.29-22.54.47:311][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.29-22.54.47:311][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.29-22.54.51:595][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.29-22.54.51:655][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/alexr/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.29-22.54.51:661][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alexr/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.29-22.54.51:661][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.29-22.54.51:661][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.29-22.54.51:661][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.29-22.54.51:661][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.29-22.54.51:674][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.29-22.54.51:675][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.29-22.54.51:675][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.29-22.54.51:687][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alexr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.29-22.54.51:687][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.29-22.54.51:687][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.29-22.54.51:707][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.29-22.54.51:708][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.29-22.54.51:709][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.29-22.54.51:839][  0]LogAssetRegistry: FAssetRegistry took 0.0323 seconds to start up
+[2019.05.29-22.54.52:129][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.29-22.54.52:308][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.29-22.54.52:311][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.29-22.54.52:311][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.29-22.54.52:311][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.29-22.54.52:311][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.29-22.54.52:324][  0]LogNetVersion: BattleGrounds 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3651256072)
+[2019.05.29-22.54.52:933][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.145761 seconds
+[2019.05.29-22.54.52:940][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.29-22.54.52:940][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.05.29-22.54.52:940][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.29-22.54.54:529][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.29-22.54.54:543][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.29-22.54.55:278][  0]SourceControl: Source control is disabled
+[2019.05.29-22.54.55:278][  0]SourceControl: Source control is disabled
+[2019.05.29-22.54.55:279][  0]SourceControl: Source control is disabled
+[2019.05.29-22.54.55:280][  0]SourceControl: Source control is disabled
+[2019.05.29-22.54.55:503][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.29-22.54.55:572][  0]LogOcInput: OculusInput pre-init called
+[2019.05.29-22.54.55:729][  0]LogEngine: Initializing Engine...
+[2019.05.29-22.54.55:730][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.29-22.54.55:745][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.29-22.54.55:745][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.29-22.54.55:745][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.29-22.54.55:745][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.29-22.54.55:987][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.29-22.54.56:001][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.29-22.54.56:035][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.29-22.54.56:147][  0]LogInit: FAudioDevice initialized.
+[2019.05.29-22.54.56:147][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.29-22.54.57:855][  0]LogDerivedDataCache: Saved boot cache 1.71s 71MB C:/Users/alexr/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.29-22.54.58:305][  0]LogInit: Texture streaming: Enabled
+[2019.05.29-22.54.58:338][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.29-22.54.58:352][  0]LogInit: Transaction tracking system initialized
+[2019.05.29-22.54.58:373][  0]BlueprintLog: New page: Editor Load
+[2019.05.29-22.54.58:969][  0]LocalizationService: Localization service is disabled
+[2019.05.29-22.55.00:502][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Content/' took 0.01s
+[2019.05.29-22.55.00:502][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.29-22.55.00:502][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.29-22.55.00:502][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.29-22.55.00:502][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.29-22.55.00:502][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.29-22.55.00:502][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.29-22.55.00:502][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.29-22.55.02:976][  0]SourceControl: Source control is disabled
+[2019.05.29-22.55.02:976][  0]Cmd: MAP LOAD FILE="../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Content/BattleGround.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.29-22.55.02:976][  0]LightingResults: New page: Lighting Build
+[2019.05.29-22.55.02:978][  0]MapCheck: New page: Map Check
+[2019.05.29-22.55.02:978][  0]LightingResults: New page: Lighting Build
+[2019.05.29-22.55.06:226][  0]LogAIModule: Creating AISystem for world BattleGround
+[2019.05.29-22.55.21:074][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.29-22.55.21:096][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.29-22.55.21:096][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.213ms to complete.
+[2019.05.29-22.55.21:096][  0]LogFileHelpers: Loading map 'BattleGround' took 18.121
+[2019.05.29-22.55.21:579][  0]LogCollectionManager: Loaded 0 collections in 0.002199 seconds
+[2019.05.29-22.55.21:733][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Collections/' took 0.01s
+[2019.05.29-22.55.21:733][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Content/Developers/alexr/Collections/' took 0.00s
+[2019.05.29-22.55.21:733][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Content/Collections/' took 0.00s
+[2019.05.29-22.55.21:733][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.29-22.55.21:751][  0]LogContentBrowser: Native class hierarchy populated in 0.0163 seconds. Added 2652 classes and 622 folders.
+[2019.05.29-22.55.21:903][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.29-22.55.22:022][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:070][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:076][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:097][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:155][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:167][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:175][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:197][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:213][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:219][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:238][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:252][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:269][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:280][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:306][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:324][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:336][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:375][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:399][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:423][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:429][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.22:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-22.55.23:305][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.29-22.55.23:848][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.05.29-22.55.28:138][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-22.55.28:387][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-22.55.28:395][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-22.55.28:400][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-22.55.31:307][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Intermediate/Config/CoalescedSourceConfigs/Engine.ini]
+[2019.05.29-22.55.34:432][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.05.29-22.55.34:901][  0]LogSlate: Took 0.067857 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.29-22.55.35:124][  0]LogSlate: Took 0.065623 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.29-22.55.35:230][  0]LogSlate: Took 0.089296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.29-22.55.35:612][  0]LogSlate: Took 0.076229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.05.29-22.55.35:998][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BattleGrounds
+[2019.05.29-22.55.35:998][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.05.29-22.55.35:998][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.05.29-22.55.35:998][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.05.29-22.55.35:998][  0]LogTemp: BranchPath = DESKTOP-K3G4BCU/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-K3G4BCU/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.05.29-22.55.35:999][  0]LogSlate: Took 0.016638 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.29-22.55.36:819][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\alexr\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.05.29-22.55.36:819][  0]LogRenderer: Reallocating scene render targets to support 1480x516 Format 9 NumSamples 1 (Frame:1).
+[2019.05.29-22.55.39:668][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.05.29-22.55.39:669][  0]LogLoad: (Engine Initialization) Total time: 75.74 seconds
+[2019.05.29-22.55.39:669][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.29-22.55.41:351][  0]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 2. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2019.05.29-22.55.41:351][  0]LogContentStreaming: Texture pool size now 800 MB
+[2019.05.29-22.55.42:396][  3]LogAssetRegistry: Asset discovery search completed in 50.5794 seconds
+[2019.05.29-22.55.42:444][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.29-22.55.42:444][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000253 seconds (updated 0 objects)
+[2019.05.29-22.56.56:446][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-22.56.59:969][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-22.57.03:703][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-22.57.04:423][508]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.29-22.57.04:453][508]LogAssetEditorManager: Opening Asset editor for Material /Game/landscape.landscape
+[2019.05.29-22.57.04:868][508]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-22.57.06:349][508]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-22.57.06:349][508]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-22.57.13:225][508]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-22.57.13:860][508]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-22.57.14:978][508]LogSlate: Took 0.543977 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.29-22.57.23:496][811]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-22.57.23:496][811]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-22.57.24:138][849]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-22.57.24:173][851]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.29-22.57.24:740][886]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-22.57.24:810][890]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-22.57.25:275][919]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.29-22.57.25:402][927]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.29-22.57.25:877][956]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.29-22.57.26:201][976]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.29-22.57.26:598][998]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.29-22.57.28:405][111]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.29-22.57.28:462][114]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.29-22.57.29:411][173]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.29-22.57.29:745][194]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.29-22.57.30:644][249]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.29-22.57.30:781][257]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.29-22.57.32:215][345]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.29-22.57.32:543][366]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.29-22.57.33:180][404]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.29-22.57.33:628][432]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.29-22.57.34:424][475]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.05.29-22.57.34:424][475]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.05.29-22.57.34:424][475]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.29-22.57.34:424][475]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.29-22.58.26:453][802]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-22.58.26:486][802]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-22.58.26:533][803]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-22.58.26:533][803]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-22.58.29:239][976]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-22.58.29:327][982]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.29-22.58.30:298][ 44]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-22.58.30:766][ 74]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-22.58.30:894][ 80]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.29-22.58.31:362][111]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.29-22.58.31:759][139]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.29-22.58.32:180][167]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.29-22.58.32:894][217]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.29-22.58.35:084][353]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.29-22.58.36:325][376]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.29-22.58.36:325][376]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.29-22.58.36:325][376]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.29-22.58.36:356][378]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.29-22.58.36:654][398]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.29-22.58.37:678][463]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.29-22.58.38:407][509]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.29-22.58.39:457][575]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.29-22.58.39:971][608]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.29-22.58.41:460][668]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.05.29-22.58.41:461][668]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.05.29-22.58.41:461][668]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.29-22.58.41:462][668]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.29-22.58.43:978][757]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-22.58.44:000][758]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-22.58.44:000][758]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-22.58.44:886][821]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-22.58.44:932][825]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.29-22.58.45:199][845]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-22.58.45:238][848]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-22.58.45:558][869]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.29-22.58.46:039][904]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.29-22.58.46:144][911]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.29-22.58.46:635][942]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.29-22.58.46:903][959]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.29-22.58.47:690][998]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.29-22.58.47:691][998]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.29-22.58.48:263][ 34]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.29-22.58.49:706][116]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-22.58.49:786][116]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-22.58.49:817][117]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-22.58.49:817][117]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-22.58.50:462][157]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-22.58.50:752][176]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.29-22.58.51:410][217]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-22.58.51:787][240]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-22.58.52:031][255]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.29-22.58.52:421][279]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.29-22.58.52:721][297]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.29-22.58.52:887][307]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.29-22.58.53:539][348]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.29-22.58.55:117][444]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.29-22.58.56:426][523]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-22.58.56:490][525]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-22.58.56:500][525]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-22.58.56:640][525]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-22.58.56:715][525]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.29-22.58.56:787][525]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-22.58.56:945][525]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-22.58.56:952][525]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.29-22.58.57:260][525]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.29-22.58.57:357][525]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.29-22.58.57:536][525]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.29-22.58.57:616][525]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-22.58.57:628][525]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-22.58.57:710][525]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-22.58.58:124][526]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-22.58.58:124][526]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-22.58.58:124][526]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-22.58.58:134][526]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.29-22.58.58:288][532]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-22.58.58:341][536]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-22.58.58:886][571]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.29-22.58.59:189][591]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.29-22.58.59:620][619]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.29-22.58.59:791][628]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.29-22.59.00:292][661]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.29-22.59.01:623][744]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.29-22.59.01:905][762]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.29-22.59.02:276][781]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.29-22.59.02:828][817]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.29-22.59.03:835][880]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.29-22.59.03:896][883]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.29-22.59.05:654][993]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.29-22.59.05:784][  1]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.29-22.59.07:045][ 83]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.29-22.59.08:262][161]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.29-22.59.10:309][293]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.05.29-22.59.10:310][293]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.05.29-22.59.10:311][293]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.29-22.59.10:311][293]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.29-22.59.22:003][ 53]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-22.59.22:179][ 53]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-22.59.22:210][ 54]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-22.59.22:210][ 54]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-22.59.22:778][ 87]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-22.59.22:878][ 92]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.29-22.59.23:432][126]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-22.59.23:468][128]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-22.59.24:159][171]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.29-22.59.24:429][188]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.29-22.59.24:817][213]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.29-22.59.24:883][217]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.29-22.59.25:457][254]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.29-22.59.26:468][316]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.29-22.59.27:286][367]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.29-22.59.27:370][372]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.29-22.59.28:833][463]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.29-22.59.29:021][475]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.29-22.59.29:675][516]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.29-22.59.30:639][576]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.29-22.59.31:566][634]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.29-22.59.32:368][685]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.29-22.59.33:049][708]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-22.59.36:340][708]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-22.59.36:340][708]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-22.59.36:356][708]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-22.59.36:356][708]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.29-22.59.36:356][708]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-22.59.36:356][708]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-22.59.36:356][708]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.29-22.59.36:357][708]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.29-22.59.36:357][708]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.29-22.59.36:357][708]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.29-22.59.36:357][708]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.29-22.59.36:357][708]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.29-22.59.36:357][708]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.29-22.59.36:357][708]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.29-22.59.36:357][708]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.29-22.59.36:357][708]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.29-22.59.36:479][708]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.29-22.59.36:578][708]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.29-22.59.36:660][711]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.29-22.59.36:683][711]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.29-22.59.37:097][723]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.29-22.59.43:480][141]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-22.59.43:651][141]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-22.59.43:651][141]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-22.59.43:651][141]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-22.59.43:651][141]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.29-22.59.43:651][141]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.29-22.59.43:952][142]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-22.59.43:952][142]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.29-22.59.43:952][142]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-22.59.43:952][142]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-22.59.44:029][142]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.29-22.59.44:029][142]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.29-22.59.44:029][142]LogSlate: Took 0.074546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.29-22.59.44:192][143]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.29-22.59.44:662][172]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.29-22.59.45:426][220]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.29-22.59.45:808][245]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.29-22.59.47:150][325]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.29-22.59.47:488][345]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.29-22.59.48:300][393]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.29-22.59.48:808][423]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.29-22.59.50:134][503]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.29-22.59.50:543][528]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.29-22.59.51:588][587]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.29-22.59.51:924][607]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.29-22.59.52:734][657]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.29-22.59.52:737][657]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.05.29-22.59.52:744][657]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.05.29-22.59.52:745][657]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.29-22.59.52:745][657]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.29-22.59.57:851][958]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-22.59.57:886][958]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-22.59.57:887][958]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-22.59.57:939][958]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.29-22.59.58:049][961]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-22.59.58:110][965]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-22.59.58:479][986]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-22.59.58:548][990]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.29-22.59.58:862][  8]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-22.59.58:880][  9]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-22.59.59:169][ 25]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.29-22.59.59:363][ 35]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.29-22.59.59:477][ 41]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.29-23.00.00:829][117]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.29-23.00.00:916][122]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.29-23.00.01:734][168]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.29-23.00.01:785][171]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.29-23.00.02:160][191]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.29-23.00.03:157][244]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.29-23.00.03:196][246]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.29-23.00.04:049][292]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.29-23.00.04:087][294]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.29-23.00.04:941][342]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.29-23.00.05:033][347]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.29-23.00.05:535][374]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.29-23.00.05:874][390]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.05.29-23.00.05:874][390]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.05.29-23.00.05:875][390]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.29-23.00.05:875][390]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.29-23.00.09:194][536]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.00.09:226][536]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-23.00.09:226][536]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-23.00.09:284][536]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.29-23.00.10:167][567]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-23.00.10:167][567]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-23.00.10:358][577]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-23.00.10:447][582]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.29-23.00.10:605][589]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-23.00.10:754][598]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-23.00.10:884][606]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.29-23.00.11:011][613]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.29-23.00.11:268][628]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.29-23.00.11:789][657]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.29-23.00.12:078][673]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.29-23.00.12:231][682]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.29-23.00.12:827][714]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.29-23.00.13:147][732]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.29-23.00.13:441][749]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.29-23.00.14:012][779]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.29-23.00.14:376][799]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.29-23.00.14:532][808]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.29-23.00.15:120][840]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.29-23.00.15:309][851]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.29-23.00.15:847][881]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.29-23.00.15:879][882]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.05.29-23.00.15:879][882]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.05.29-23.00.15:879][882]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.29-23.00.15:879][882]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.29-23.00.20:018][139]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.00.20:036][139]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-23.00.20:037][139]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-23.00.20:055][139]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.29-23.00.20:085][139]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.29-23.00.20:266][145]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-23.00.20:282][146]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-23.00.20:721][172]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-23.00.20:819][178]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.29-23.00.21:225][202]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-23.00.21:266][204]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-23.00.21:727][232]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.29-23.00.21:745][233]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.29-23.00.22:133][259]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.29-23.00.22:608][299]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.29-23.00.22:821][319]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.29-23.00.23:538][376]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.29-23.00.23:562][378]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.29-23.00.23:964][407]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.29-23.00.24:356][432]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.29-23.00.25:027][470]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.29-23.00.25:356][489]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.29-23.00.25:473][498]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.29-23.00.25:939][531]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.29-23.00.26:115][545]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.29-23.00.26:353][560]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.29-23.00.27:029][590]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.05.29-23.00.27:029][590]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.05.29-23.00.27:029][590]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.29-23.00.27:029][590]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.29-23.00.32:362][996]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.00.32:447][996]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-23.00.32:447][996]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-23.00.32:448][996]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.05.29-23.00.32:808][999]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-23.00.33:314][ 28]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-23.00.33:361][ 31]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-23.00.33:730][ 51]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.29-23.00.33:748][ 52]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-23.00.34:137][ 74]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-23.00.34:171][ 76]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.29-23.00.34:516][ 96]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.29-23.00.34:615][102]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.29-23.00.35:419][145]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.29-23.00.35:804][168]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.29-23.00.35:840][170]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.29-23.00.36:758][221]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.29-23.00.36:904][229]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.29-23.00.37:232][247]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.29-23.00.37:994][289]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.29-23.00.38:380][310]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.29-23.00.38:569][321]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.29-23.00.39:149][351]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.29-23.00.39:504][371]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.29-23.00.39:925][394]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.29-23.00.39:929][394]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.05.29-23.00.39:930][394]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.05.29-23.00.39:930][394]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.29-23.00.39:931][394]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.29-23.01.08:368][ 48]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.01.08:395][ 48]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-23.01.08:395][ 48]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-23.01.08:486][ 48]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.05.29-23.01.08:512][ 48]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.29-23.01.10:464][140]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-23.01.10:464][140]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-23.01.10:867][164]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-23.01.10:902][166]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.29-23.01.11:370][195]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-23.01.11:495][201]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-23.01.11:815][224]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.29-23.01.11:844][226]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.29-23.01.12:094][244]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.29-23.01.12:697][284]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.29-23.01.12:933][298]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.29-23.01.13:384][306]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.29-23.01.13:384][306]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.29-23.01.13:384][306]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.01.13:719][306]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-23.01.13:719][306]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-23.01.13:719][306]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-23.01.13:719][306]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.29-23.01.13:719][306]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-23.01.13:719][306]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.05.29-23.01.13:735][306]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-23.01.13:971][320]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-23.01.14:135][330]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-23.01.14:424][347]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.29-23.01.14:557][355]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.29-23.01.14:948][378]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.29-23.01.15:858][430]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.29-23.01.16:347][458]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.29-23.01.16:605][473]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.29-23.01.17:810][543]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.29-23.01.18:095][560]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.29-23.01.19:341][634]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.29-23.01.19:377][636]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.29-23.01.20:412][696]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.29-23.01.20:812][717]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.29-23.01.21:568][759]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.29-23.01.22:030][785]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.29-23.01.23:071][843]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.29-23.01.23:154][846]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.05.29-23.01.23:154][846]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.05.29-23.01.23:154][846]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.29-23.01.23:154][846]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.29-23.01.23:821][886]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.01.23:834][886]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-23.01.23:889][886]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.05.29-23.01.23:917][886]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.29-23.01.24:918][950]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.29-23.01.25:371][976]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-23.01.25:683][994]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-23.01.26:098][ 18]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-23.01.26:151][ 21]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.29-23.01.26:479][ 40]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-23.01.26:652][ 50]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-23.01.26:985][ 69]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.29-23.01.27:077][ 74]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.29-23.01.27:857][119]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.29-23.01.28:139][135]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.29-23.01.28:711][168]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.29-23.01.29:193][194]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.29-23.01.29:863][224]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.29-23.01.29:863][224]LogMaterialEditor: Saving and Compiling material landscape
+[2019.05.29-23.01.36:268][224]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.29-23.01.36:269][224]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.29-23.01.36:269][224]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.29-23.01.36:269][224]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.29-23.01.36:269][224]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.29-23.01.36:269][224]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.29-23.01.36:269][224]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.29-23.01.36:269][224]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.29-23.01.36:326][224]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.01.36:468][224]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-23.01.36:469][224]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-23.01.36:602][224]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-23.01.36:602][224]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.29-23.01.36:707][224]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-23.01.36:708][224]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.01.36:751][224]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-23.01.37:154][224]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.29-23.01.37:154][224]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.29-23.01.37:154][224]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.29-23.01.37:154][224]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.29-23.01.37:154][224]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.29-23.01.37:211][224]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.29-23.01.37:320][224]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.29-23.01.37:371][224]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.29-23.01.37:558][224]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.29-23.01.37:619][224]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.29-23.01.37:716][224]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.29-23.01.37:885][224]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.29-23.01.38:527][224]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.29-23.01.38:527][224]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.29-23.01.38:527][224]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.29-23.01.38:563][224]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.29-23.01.38:563][224]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.29-23.01.38:598][224]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.01.43:886][224]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.29-23.01.43:886][224]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.29-23.01.43:886][224]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.29-23.01.44:121][224]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy landscape, compiling. 
+[2019.05.29-23.01.44:340][224]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.29-23.01.44:361][224]TextureStreamingBuild: Display: Compiling optional shaders took 0.295 seconds.
+[2019.05.29-23.01.45:241][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/landscape" FILE="../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Content/landscape.uasset" SILENT=true
+[2019.05.29-23.01.45:951][224]LogSavePackage: Moving '../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/landscape2EA27D1D41DA6E65378B3AADF5E683B3.tmp' to '../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Content/landscape.uasset'
+[2019.05.29-23.01.48:491][224]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.05.29-23.01.48:491][224]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.05.29-23.01.48:491][224]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.29-23.01.48:492][224]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.29-23.01.56:406][623]LogMaterialEditor: Saving and Compiling material landscape
+[2019.05.29-23.01.56:435][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/landscape" FILE="../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Content/landscape.uasset" SILENT=true
+[2019.05.29-23.01.57:729][623]LogSavePackage: Moving '../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/landscapeB11D5EA84C3B2A3804D8BBB015CECD83.tmp' to '../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Content/landscape.uasset'
+[2019.05.29-23.02.11:470][929]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.05.29-23.02.40:124][ 72]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.290 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-23.02.54:471][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-23.03.14:500][286]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.05.29-23.03.31:847][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-23.03.37:885][278]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.05.29-23.03.52:547][195]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape2)
+[2019.05.29-23.03.54:213][195]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-23.04.45:566][193]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.04.46:267][193]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.29-23.04.46:267][193]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.29-23.04.46:354][193]LogMaterial: Warning: Material /Game/landscape.landscape needed to have new flag set bUsedWithStaticLighting !
+[2019.05.29-23.04.46:381][193]LogMaterial: Warning: Material /Engine/Transient.landscape needed to have new flag set bUsedWithStaticLighting !
+[2019.05.29-23.04.46:393][193]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.04.46:542][193]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.04.46:590][193]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.04.46:765][193]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.04.46:784][193]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.04.46:967][193]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.04.47:886][207]LogShaderCompilers: Display: Shaders left to compile 167
+[2019.05.29-23.04.48:921][236]LogShaderCompilers: Display: Shaders left to compile 166
+[2019.05.29-23.04.48:921][236]LogShaderCompilers: Display: Shaders left to compile 165
+[2019.05.29-23.04.49:109][246]LogShaderCompilers: Display: Shaders left to compile 164
+[2019.05.29-23.04.49:244][253]LogShaderCompilers: Display: Shaders left to compile 163
+[2019.05.29-23.04.49:342][258]LogShaderCompilers: Display: Shaders left to compile 162
+[2019.05.29-23.04.49:504][266]LogShaderCompilers: Display: Shaders left to compile 161
+[2019.05.29-23.04.49:596][271]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.05.29-23.04.49:721][277]LogShaderCompilers: Display: Shaders left to compile 159
+[2019.05.29-23.04.49:751][279]LogShaderCompilers: Display: Shaders left to compile 158
+[2019.05.29-23.04.49:956][290]LogShaderCompilers: Display: Shaders left to compile 157
+[2019.05.29-23.04.50:457][316]LogShaderCompilers: Display: Shaders left to compile 156
+[2019.05.29-23.04.50:580][323]LogShaderCompilers: Display: Shaders left to compile 155
+[2019.05.29-23.04.50:773][333]LogShaderCompilers: Display: Shaders left to compile 154
+[2019.05.29-23.04.51:286][359]LogShaderCompilers: Display: Shaders left to compile 153
+[2019.05.29-23.04.51:422][366]LogShaderCompilers: Display: Shaders left to compile 152
+[2019.05.29-23.04.51:791][377]LogShaderCompilers: Display: Shaders left to compile 151
+[2019.05.29-23.04.51:791][377]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.05.29-23.04.52:067][390]LogShaderCompilers: Display: Shaders left to compile 149
+[2019.05.29-23.04.52:187][395]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape2)
+[2019.05.29-23.04.52:229][395]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-23.04.52:270][398]LogShaderCompilers: Display: Shaders left to compile 148
+[2019.05.29-23.04.52:648][431]LogShaderCompilers: Display: Shaders left to compile 147
+[2019.05.29-23.04.52:878][443]LogShaderCompilers: Display: Shaders left to compile 146
+[2019.05.29-23.04.52:977][448]LogShaderCompilers: Display: Shaders left to compile 145
+[2019.05.29-23.04.53:504][478]LogShaderCompilers: Display: Shaders left to compile 144
+[2019.05.29-23.04.53:667][487]LogShaderCompilers: Display: Shaders left to compile 143
+[2019.05.29-23.04.53:828][496]LogShaderCompilers: Display: Shaders left to compile 142
+[2019.05.29-23.04.54:232][510]LogShaderCompilers: Display: Shaders left to compile 141
+[2019.05.29-23.04.54:324][515]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.05.29-23.04.54:466][523]LogShaderCompilers: Display: Shaders left to compile 139
+[2019.05.29-23.04.54:815][540]LogShaderCompilers: Display: Shaders left to compile 138
+[2019.05.29-23.04.54:943][547]LogShaderCompilers: Display: Shaders left to compile 137
+[2019.05.29-23.04.55:132][556]LogShaderCompilers: Display: Shaders left to compile 127
+[2019.05.29-23.04.58:467][712]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.05.29-23.04.59:401][756]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.05.29-23.05.01:221][850]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.05.29-23.05.03:486][963]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.05.29-23.05.05:803][ 78]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.05.29-23.05.06:501][113]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.05.29-23.05.06:643][114]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.05.29-23.05.06:643][114]MaterialEditorStats: Base pass shader with Surface Lightmap: 121 instructions
+[2019.05.29-23.05.06:644][114]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.05.29-23.05.06:644][114]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.29-23.05.06:644][114]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.29-23.05.10:924][329]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.05.29-23.05.11:688][368]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.05.29-23.05.14:464][495]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.29-23.05.16:471][601]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.29-23.05.20:462][816]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-23.05.22:969][949]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.29-23.06.18:654][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-23.06.31:100][123]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-23.06.31:125][123]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-23.06.37:499][142]LogSlate: Window 'Project Settings' being destroyed
+[2019.05.29-23.06.37:503][142]LogSlate: Window 'Project Settings' being destroyed
+[2019.05.29-23.08.17:273][771]LogSavePackage: Moving '../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/BattleGround_Auto1F7DB419D450A14B4C7D685B231686F68.tmp' to '../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Autosaves/Game/BattleGround_Auto1.umap'
+[2019.05.29-23.08.18:901][771]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BattleGround' took 52.539
+[2019.05.29-23.08.18:901][771]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 52.539
+[2019.05.29-23.08.19:727][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/landscape] ([1] browsable assets)...
+[2019.05.29-23.08.19:727][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/landscape]
+[2019.05.29-23.08.21:140][771]LogSavePackage: Moving '../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/landscape_Auto15B1809C040054BB957A65EB55F954C03.tmp' to '../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Autosaves/Game/landscape_Auto1.uasset'
+[2019.05.29-23.08.21:142][771]LogFileHelpers: Auto-saving content packages took 2.105
+[2019.05.29-23.08.40:125][100]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (11.602 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-23.09.05:808][235]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.09.06:918][235]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.29-23.09.06:918][235]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.29-23.09.11:383][235]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.29-23.09.11:697][235]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.29-23.09.18:798][279]LogMaterialEditor: Applying material landscape
+[2019.05.29-23.10.26:526][279]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.29-23.10.26:630][279]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.29-23.10.26:748][279]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.29-23.10.26:748][279]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.29-23.10.26:748][279]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.29-23.10.26:748][279]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.29-23.10.26:748][279]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.29-23.10.26:748][279]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.29-23.10.26:754][279]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.29-23.10.26:754][279]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.29-23.10.26:754][279]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-23.10.26:754][279]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-23.10.26:754][279]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.29-23.10.26:754][279]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-23.10.26:754][279]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-23.10.26:754][279]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.29-23.10.26:755][279]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.29-23.10.26:755][279]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.29-23.10.26:755][279]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.29-23.10.26:755][279]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.29-23.10.26:755][279]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.29-23.10.26:755][279]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.29-23.10.26:755][279]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.29-23.10.26:755][279]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.29-23.10.26:755][279]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.29-23.10.26:755][279]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.29-23.10.26:755][279]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.29-23.10.26:756][279]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.29-23.10.26:756][279]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.29-23.10.26:756][279]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.29-23.10.27:118][279]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.10.28:615][279]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.29-23.10.28:615][279]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.29-23.10.31:931][279]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.29-23.10.31:931][279]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.29-23.10.31:931][279]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.10.32:163][279]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.05.29-23.10.32:163][279]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.05.29-23.10.32:163][279]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.05.29-23.10.32:163][279]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.05.29-23.10.32:576][279]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.05.29-23.10.32:577][279]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.05.29-23.10.32:577][279]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.05.29-23.10.32:577][279]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.29-23.10.32:930][279]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.05.29-23.10.32:930][279]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.05.29-23.10.32:930][279]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.10.33:071][279]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.29-23.10.33:071][279]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.29-23.10.33:331][279]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.05.29-23.10.33:513][279]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.29-23.10.33:513][279]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.10.33:790][279]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.29-23.10.33:790][279]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.29-23.10.33:790][279]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.10.33:836][279]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.10.38:237][279]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.05.29-23.10.38:238][279]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.05.29-23.10.38:238][279]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.05.29-23.10.38:238][279]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.05.29-23.10.38:238][279]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.05.29-23.10.38:238][279]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.05.29-23.10.38:238][279]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.05.29-23.10.38:238][279]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.05.29-23.10.38:238][279]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.05.29-23.10.38:238][279]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.05.29-23.10.38:238][279]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.05.29-23.10.38:238][279]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.05.29-23.10.38:239][279]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.05.29-23.10.38:239][279]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.05.29-23.10.39:534][279]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.05.29-23.10.39:534][279]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.05.29-23.10.39:534][279]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy landscape, compiling. 
+[2019.05.29-23.10.42:290][279]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.05.29-23.10.42:291][279]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.05.29-23.10.42:291][279]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.29-23.10.42:610][279]TextureStreamingBuild: Display: Compiling optional shaders took 3.986 seconds.
+[2019.05.29-23.10.44:027][279]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.29-23.10.44:028][279]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.29-23.10.44:048][279]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.10.46:153][279]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.29-23.10.46:153][279]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.29-23.10.46:496][279]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.05.29-23.10.46:496][279]MaterialEditorStats: Base pass shader with Surface Lightmap: 121 instructions
+[2019.05.29-23.10.46:496][279]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.05.29-23.10.46:496][279]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.29-23.10.46:497][279]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.29-23.10.47:249][280]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-23.11.40:115][961]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.867 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.29-23.12.15:895][872]LogMaterialEditor: Saving and Compiling material landscape
+[2019.05.29-23.12.16:358][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/landscape" FILE="../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Content/landscape.uasset" SILENT=true
+[2019.05.29-23.12.16:635][872]LogSavePackage: Moving '../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/landscape74999D1640B29885E5E1F7B5373CA389.tmp' to '../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Content/landscape.uasset'
+[2019.05.29-23.13.28:906][300]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2019.05.29-23.13.29:650][300]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 64X64)
+[2019.05.29-23.13.29:713][300]LogMaterial: Display: Missing cached shader map for material landscape, compiling. 
+[2019.05.29-23.13.29:765][300]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.29-23.13.29:765][300]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.29-23.13.29:978][300]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.05.29-23.13.30:043][300]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2019.05.29-23.13.30:080][300]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2019.05.29-23.13.30:186][300]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2019.05.29-23.13.30:243][300]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2019.05.29-23.13.30:389][300]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2019.05.29-23.13.30:542][300]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2019.05.29-23.13.30:686][300]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2019.05.29-23.13.30:794][300]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2019.05.29-23.13.30:985][300]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2019.05.29-23.13.31:089][300]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2019.05.29-23.13.31:662][300]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2019.05.29-23.13.31:763][300]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2019.05.29-23.13.31:822][300]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.29-23.13.31:956][300]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2019.05.29-23.13.32:682][300]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2019.05.29-23.13.32:917][300]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.29-23.13.32:917][300]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2019.05.29-23.13.33:045][300]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2019.05.29-23.13.33:369][300]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2019.05.29-23.13.33:522][300]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2019.05.29-23.13.34:220][300]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-23.13.34:220][300]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.29-23.13.34:220][300]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2019.05.29-23.13.34:409][300]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2019.05.29-23.13.34:505][300]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2019.05.29-23.13.34:643][300]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2019.05.29-23.13.35:593][300]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.05.29-23.13.35:828][300]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2019.05.29-23.13.36:269][300]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2019.05.29-23.13.37:647][300]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2019.05.29-23.13.37:674][300]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2019.05.29-23.13.38:352][300]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2019.05.29-23.13.39:169][300]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2019.05.29-23.13.39:426][300]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2019.05.29-23.13.39:553][300]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2019.05.29-23.13.39:814][300]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2019.05.29-23.13.40:232][300]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2019.05.29-23.13.40:776][300]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2019.05.29-23.13.40:913][300]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2019.05.29-23.13.41:514][300]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2019.05.29-23.13.41:946][300]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2019.05.29-23.13.42:575][300]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2019.05.29-23.13.42:604][300]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2019.05.29-23.13.43:557][300]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2019.05.29-23.13.44:162][300]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2019.05.29-23.13.44:314][300]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2019.05.29-23.13.44:439][300]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2019.05.29-23.13.44:587][300]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2019.05.29-23.13.44:792][300]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2019.05.29-23.13.45:012][300]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2019.05.29-23.13.45:167][300]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2019.05.29-23.13.45:361][300]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 64X64)
+[2019.05.29-23.13.45:563][300]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2019.05.29-23.13.45:803][300]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 64X64)
+[2019.05.29-23.13.46:330][300]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 64X64)
+[2019.05.29-23.13.46:358][300]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 64X64)
+[2019.05.29-23.13.46:655][300]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 64X64)
+[2019.05.29-23.13.46:875][300]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 64X64)
+[2019.05.29-23.13.47:695][300]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 64X64)
+[2019.05.29-23.13.47:964][300]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 64X64)
+[2019.05.29-23.13.48:219][300]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 64X64)
+[2019.05.29-23.13.48:433][300]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 64X64)
+[2019.05.29-23.13.48:692][300]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 64X64)
+[2019.05.29-23.13.49:025][300]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 64X64)
+[2019.05.29-23.13.49:868][300]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 64X64)
+[2019.05.29-23.13.50:165][300]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 64X64)
+[2019.05.29-23.13.50:389][300]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 64X64)
+[2019.05.29-23.13.50:686][300]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 64X64)
+[2019.05.29-23.13.50:904][300]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 64X64)
+[2019.05.29-23.13.51:202][300]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 64X64)
+[2019.05.29-23.13.51:426][300]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 64X64)
+[2019.05.29-23.13.51:731][300]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2019.05.29-23.13.52:003][300]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 64X64)
+[2019.05.29-23.13.52:363][300]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 64X64)
+[2019.05.29-23.13.52:563][300]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 64X64)
+[2019.05.29-23.13.52:839][300]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 64X64)
+[2019.05.29-23.13.53:108][300]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 64X64)
+[2019.05.29-23.13.53:334][300]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 64X64)
+[2019.05.29-23.13.53:616][300]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 64X64)
+[2019.05.29-23.13.53:932][300]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2019.05.29-23.13.54:135][300]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2019.05.29-23.13.54:369][300]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 64X64)
+[2019.05.29-23.13.54:652][300]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2019.05.29-23.13.55:150][300]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 64X64)
+[2019.05.29-23.13.55:457][300]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 64X64)
+[2019.05.29-23.13.55:760][300]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2019.05.29-23.13.56:085][300]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 64X64)
+[2019.05.29-23.13.56:371][300]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2019.05.29-23.13.56:802][300]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2019.05.29-23.13.57:211][300]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2019.05.29-23.13.57:988][300]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 64X64)
+[2019.05.29-23.13.58:608][300]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 64X64)
+[2019.05.29-23.13.58:916][300]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 64X64)
+[2019.05.29-23.13.59:353][300]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 64X64)
+[2019.05.29-23.13.59:837][300]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 64X64)
+[2019.05.29-23.14.00:164][300]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 64X64)
+[2019.05.29-23.14.00:664][300]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 64X64)
+[2019.05.29-23.14.00:873][300]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 64X64)
+[2019.05.29-23.14.01:269][300]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 64X64)
+[2019.05.29-23.14.01:659][300]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 64X64)
+[2019.05.29-23.14.02:145][300]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 64X64)
+[2019.05.29-23.14.02:886][300]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 64X64)
+[2019.05.29-23.14.03:430][300]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 64X64)
+[2019.05.29-23.14.04:353][300]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 64X64)
+[2019.05.29-23.14.04:734][300]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 64X64)
+[2019.05.29-23.14.05:783][300]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 64X64)
+[2019.05.29-23.14.06:373][300]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 64X64)
+[2019.05.29-23.14.06:894][300]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 64X64)
+[2019.05.29-23.14.07:214][300]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 64X64)
+[2019.05.29-23.14.07:660][300]LogTexture: Display: Building textures: Texture2D_123 (BGRA8, 64X64)
+[2019.05.29-23.14.08:116][300]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 64X64)
+[2019.05.29-23.14.08:558][300]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 64X64)
+[2019.05.29-23.14.08:916][300]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 64X64)
+[2019.05.29-23.14.09:321][300]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 64X64)
+[2019.05.29-23.14.09:760][300]LogTexture: Display: Building textures: Texture2D_128 (BGRA8, 64X64)
+[2019.05.29-23.14.10:191][300]LogTexture: Display: Building textures: Texture2D_129 (BGRA8, 64X64)
+[2019.05.29-23.14.10:559][300]LogTexture: Display: Building textures: Texture2D_130 (BGRA8, 64X64)
+[2019.05.29-23.14.10:922][300]LogTexture: Display: Building textures: Texture2D_131 (BGRA8, 64X64)
+[2019.05.29-23.14.11:392][300]LogTexture: Display: Building textures: Texture2D_132 (BGRA8, 64X64)
+[2019.05.29-23.14.11:691][300]LogTexture: Display: Building textures: Texture2D_133 (BGRA8, 64X64)
+[2019.05.29-23.14.12:215][300]LogTexture: Display: Building textures: Texture2D_134 (BGRA8, 64X64)
+[2019.05.29-23.14.12:911][300]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 64X64)
+[2019.05.29-23.14.14:833][300]LogTexture: Display: Building textures: Texture2D_136 (BGRA8, 64X64)
+[2019.05.29-23.14.14:955][300]LogTexture: Display: Building textures: Texture2D_137 (BGRA8, 64X64)
+[2019.05.29-23.14.15:982][300]LogTexture: Display: Building textures: Texture2D_138 (BGRA8, 64X64)
+[2019.05.29-23.14.16:481][300]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 64X64)
+[2019.05.29-23.14.16:999][300]LogTexture: Display: Building textures: Texture2D_140 (BGRA8, 64X64)
+[2019.05.29-23.14.17:461][300]LogTexture: Display: Building textures: Texture2D_141 (BGRA8, 64X64)
+[2019.05.29-23.14.17:967][300]LogTexture: Display: Building textures: Texture2D_142 (BGRA8, 64X64)
+[2019.05.29-23.14.18:468][300]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 64X64)
+[2019.05.29-23.14.18:979][300]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 64X64)
+[2019.05.29-23.14.19:589][300]LogTexture: Display: Building textures: Texture2D_145 (BGRA8, 64X64)
+[2019.05.29-23.14.20:103][300]LogTexture: Display: Building textures: Texture2D_146 (BGRA8, 64X64)
+[2019.05.29-23.14.20:585][300]LogTexture: Display: Building textures: Texture2D_147 (BGRA8, 64X64)
+[2019.05.29-23.14.23:540][300]LogTexture: Display: Building textures: Texture2D_148 (BGRA8, 64X64)
+[2019.05.29-23.14.25:077][300]LogTexture: Display: Building textures: Texture2D_149 (BGRA8, 64X64)
+[2019.05.29-23.14.26:646][300]LogTexture: Display: Building textures: Texture2D_150 (BGRA8, 64X64)
+[2019.05.29-23.14.27:891][300]LogTexture: Display: Building textures: Texture2D_151 (BGRA8, 64X64)
+[2019.05.29-23.14.28:473][300]LogTexture: Display: Building textures: Texture2D_152 (BGRA8, 64X64)
+[2019.05.29-23.14.29:006][300]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 64X64)
+[2019.05.29-23.14.29:691][300]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 64X64)
+[2019.05.29-23.14.30:540][300]LogTexture: Display: Building textures: Texture2D_155 (BGRA8, 64X64)
+[2019.05.29-23.14.31:171][300]LogTexture: Display: Building textures: Texture2D_156 (BGRA8, 64X64)
+[2019.05.29-23.14.32:281][300]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 64X64)
+[2019.05.29-23.14.32:982][300]LogTexture: Display: Building textures: Texture2D_158 (BGRA8, 64X64)
+[2019.05.29-23.14.33:942][300]LogTexture: Display: Building textures: Texture2D_159 (BGRA8, 64X64)
+[2019.05.29-23.14.34:928][300]LogTexture: Display: Building textures: Texture2D_160 (BGRA8, 64X64)
+[2019.05.29-23.14.36:039][300]LogTexture: Display: Building textures: Texture2D_161 (BGRA8, 64X64)
+[2019.05.29-23.14.36:621][300]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 64X64)
+[2019.05.29-23.14.37:286][300]LogTexture: Display: Building textures: Texture2D_163 (BGRA8, 64X64)
+[2019.05.29-23.14.38:086][300]LogTexture: Display: Building textures: Texture2D_164 (BGRA8, 64X64)
+[2019.05.29-23.14.38:573][300]LogTexture: Display: Building textures: Texture2D_165 (BGRA8, 64X64)
+[2019.05.29-23.14.41:074][300]LogTexture: Display: Building textures: Texture2D_166 (BGRA8, 64X64)
+[2019.05.29-23.14.41:940][300]LogTexture: Display: Building textures: Texture2D_167 (BGRA8, 64X64)
+[2019.05.29-23.14.42:757][300]LogTexture: Display: Building textures: Texture2D_168 (BGRA8, 64X64)
+[2019.05.29-23.14.48:540][300]LogTexture: Display: Building textures: Texture2D_169 (BGRA8, 64X64)
+[2019.05.29-23.14.52:229][300]LogTexture: Display: Building textures: Texture2D_170 (BGRA8, 64X64)
+[2019.05.29-23.14.54:932][300]LogTexture: Display: Building textures: Texture2D_171 (BGRA8, 64X64)
+[2019.05.29-23.14.59:119][300]LogTexture: Display: Building textures: Texture2D_172 (BGRA8, 64X64)
+[2019.05.29-23.15.01:435][300]LogTexture: Display: Building textures: Texture2D_173 (BGRA8, 64X64)
+[2019.05.29-23.15.03:933][300]LogTexture: Display: Building textures: Texture2D_174 (BGRA8, 64X64)
+[2019.05.29-23.15.07:475][300]LogTexture: Display: Building textures: Texture2D_175 (BGRA8, 64X64)
+[2019.05.29-23.15.10:491][300]LogTexture: Display: Building textures: Texture2D_176 (BGRA8, 64X64)
+[2019.05.29-23.15.13:661][300]LogTexture: Display: Building textures: Texture2D_177 (BGRA8, 64X64)
+[2019.05.29-23.15.16:932][300]LogTexture: Display: Building textures: Texture2D_178 (BGRA8, 64X64)
+[2019.05.29-23.15.20:676][300]LogTexture: Display: Building textures: Texture2D_179 (BGRA8, 64X64)
+[2019.05.29-23.15.23:277][300]LogTexture: Display: Building textures: Texture2D_180 (BGRA8, 64X64)
+[2019.05.29-23.15.25:445][300]LogTexture: Display: Building textures: Texture2D_181 (BGRA8, 64X64)
+[2019.05.29-23.15.27:138][300]LogTexture: Display: Building textures: Texture2D_182 (BGRA8, 64X64)
+[2019.05.29-23.15.28:402][300]LogTexture: Display: Building textures: Texture2D_183 (BGRA8, 64X64)
+[2019.05.29-23.15.29:386][300]LogTexture: Display: Building textures: Texture2D_184 (BGRA8, 64X64)
+[2019.05.29-23.15.30:481][300]LogTexture: Display: Building textures: Texture2D_185 (BGRA8, 64X64)
+[2019.05.29-23.15.31:428][300]LogTexture: Display: Building textures: Texture2D_186 (BGRA8, 64X64)
+[2019.05.29-23.15.32:624][300]LogTexture: Display: Building textures: Texture2D_187 (BGRA8, 64X64)
+[2019.05.29-23.15.33:680][300]LogTexture: Display: Building textures: Texture2D_188 (BGRA8, 64X64)
+[2019.05.29-23.15.34:433][300]LogTexture: Display: Building textures: Texture2D_189 (BGRA8, 64X64)
+[2019.05.29-23.15.35:214][300]LogTexture: Display: Building textures: Texture2D_190 (BGRA8, 64X64)
+[2019.05.29-23.15.35:988][300]LogTexture: Display: Building textures: Texture2D_191 (BGRA8, 64X64)
+[2019.05.29-23.15.37:445][300]LogTexture: Display: Building textures: Texture2D_192 (BGRA8, 64X64)
+[2019.05.29-23.15.39:357][300]LogTexture: Display: Building textures: Texture2D_193 (BGRA8, 64X64)
+[2019.05.29-23.15.39:899][300]LogTexture: Display: Building textures: Texture2D_194 (BGRA8, 64X64)
+[2019.05.29-23.15.40:743][300]LogTexture: Display: Building textures: Texture2D_195 (BGRA8, 64X64)
+[2019.05.29-23.15.41:605][300]LogTexture: Display: Building textures: Texture2D_196 (BGRA8, 64X64)
+[2019.05.29-23.15.42:604][300]LogTexture: Display: Building textures: Texture2D_197 (BGRA8, 64X64)
+[2019.05.29-23.15.43:382][300]LogTexture: Display: Building textures: Texture2D_198 (BGRA8, 64X64)
+[2019.05.29-23.15.44:176][300]LogTexture: Display: Building textures: Texture2D_199 (BGRA8, 64X64)
+[2019.05.29-23.15.45:006][300]LogTexture: Display: Building textures: Texture2D_200 (BGRA8, 64X64)
+[2019.05.29-23.15.46:000][300]LogTexture: Display: Building textures: Texture2D_201 (BGRA8, 64X64)
+[2019.05.29-23.15.46:699][300]LogTexture: Display: Building textures: Texture2D_202 (BGRA8, 64X64)
+[2019.05.29-23.15.48:100][300]LogTexture: Display: Building textures: Texture2D_203 (BGRA8, 64X64)
+[2019.05.29-23.15.49:398][300]LogTexture: Display: Building textures: Texture2D_204 (BGRA8, 64X64)
+[2019.05.29-23.15.50:499][300]LogTexture: Display: Building textures: Texture2D_205 (BGRA8, 64X64)
+[2019.05.29-23.15.52:077][300]LogTexture: Display: Building textures: Texture2D_206 (BGRA8, 64X64)
+[2019.05.29-23.15.52:963][300]LogTexture: Display: Building textures: Texture2D_207 (BGRA8, 64X64)
+[2019.05.29-23.15.53:770][300]LogTexture: Display: Building textures: Texture2D_208 (BGRA8, 64X64)
+[2019.05.29-23.15.54:834][300]LogTexture: Display: Building textures: Texture2D_209 (BGRA8, 64X64)
+[2019.05.29-23.15.55:627][300]LogTexture: Display: Building textures: Texture2D_210 (BGRA8, 64X64)
+[2019.05.29-23.15.56:493][300]LogTexture: Display: Building textures: Texture2D_211 (BGRA8, 64X64)
+[2019.05.29-23.15.57:194][300]LogTexture: Display: Building textures: Texture2D_212 (BGRA8, 64X64)
+[2019.05.29-23.15.58:419][300]LogTexture: Display: Building textures: Texture2D_213 (BGRA8, 64X64)
+[2019.05.29-23.15.59:171][300]LogTexture: Display: Building textures: Texture2D_214 (BGRA8, 64X64)
+[2019.05.29-23.16.00:039][300]LogTexture: Display: Building textures: Texture2D_215 (BGRA8, 64X64)
+[2019.05.29-23.16.01:788][300]LogTexture: Display: Building textures: Texture2D_216 (BGRA8, 64X64)
+[2019.05.29-23.16.02:860][300]LogTexture: Display: Building textures: Texture2D_217 (BGRA8, 64X64)
+[2019.05.29-23.16.03:735][300]LogTexture: Display: Building textures: Texture2D_218 (BGRA8, 64X64)
+[2019.05.29-23.16.04:657][300]LogTexture: Display: Building textures: Texture2D_219 (BGRA8, 64X64)
+[2019.05.29-23.16.05:367][300]LogTexture: Display: Building textures: Texture2D_220 (BGRA8, 64X64)
+[2019.05.29-23.16.06:255][300]LogTexture: Display: Building textures: Texture2D_221 (BGRA8, 64X64)
+[2019.05.29-23.16.06:865][300]LogTexture: Display: Building textures: Texture2D_222 (BGRA8, 64X64)
+[2019.05.29-23.16.07:889][300]LogTexture: Display: Building textures: Texture2D_223 (BGRA8, 64X64)
+[2019.05.29-23.16.08:513][300]LogTexture: Display: Building textures: Texture2D_224 (BGRA8, 64X64)
+[2019.05.29-23.16.09:618][300]LogTexture: Display: Building textures: Texture2D_225 (BGRA8, 64X64)
+[2019.05.29-23.16.11:274][300]LogTexture: Display: Building textures: Texture2D_226 (BGRA8, 64X64)
+[2019.05.29-23.16.12:193][300]LogTexture: Display: Building textures: Texture2D_227 (BGRA8, 64X64)
+[2019.05.29-23.16.13:101][300]LogTexture: Display: Building textures: Texture2D_228 (BGRA8, 64X64)
+[2019.05.29-23.16.14:127][300]LogTexture: Display: Building textures: Texture2D_229 (BGRA8, 64X64)
+[2019.05.29-23.16.15:573][300]LogTexture: Display: Building textures: Texture2D_230 (BGRA8, 64X64)
+[2019.05.29-23.16.16:374][300]LogTexture: Display: Building textures: Texture2D_231 (BGRA8, 64X64)
+[2019.05.29-23.16.17:377][300]LogTexture: Display: Building textures: Texture2D_232 (BGRA8, 64X64)
+[2019.05.29-23.16.20:239][300]LogTexture: Display: Building textures: Texture2D_233 (BGRA8, 64X64)
+[2019.05.29-23.16.21:590][300]LogTexture: Display: Building textures: Texture2D_234 (BGRA8, 64X64)
+[2019.05.29-23.16.23:084][300]LogTexture: Display: Building textures: Texture2D_235 (BGRA8, 64X64)
+[2019.05.29-23.16.23:748][300]LogTexture: Display: Building textures: Texture2D_236 (BGRA8, 64X64)
+[2019.05.29-23.16.25:075][300]LogTexture: Display: Building textures: Texture2D_237 (BGRA8, 64X64)
+[2019.05.29-23.16.28:025][300]LogTexture: Display: Building textures: Texture2D_238 (BGRA8, 64X64)
+[2019.05.29-23.16.31:439][300]LogTexture: Display: Building textures: Texture2D_239 (BGRA8, 64X64)
+[2019.05.29-23.16.37:029][300]LogTexture: Display: Building textures: Texture2D_240 (BGRA8, 64X64)
+[2019.05.29-23.16.47:759][300]LogTexture: Display: Building textures: Texture2D_241 (BGRA8, 64X64)
+[2019.05.29-23.16.54:347][300]LogTexture: Display: Building textures: Texture2D_242 (BGRA8, 64X64)
+[2019.05.29-23.16.56:325][300]LogTexture: Display: Building textures: Texture2D_243 (BGRA8, 64X64)
+[2019.05.29-23.16.57:709][300]LogTexture: Display: Building textures: Texture2D_244 (BGRA8, 64X64)
+[2019.05.29-23.17.00:384][300]LogTexture: Display: Building textures: Texture2D_245 (BGRA8, 64X64)
+[2019.05.29-23.17.01:629][300]LogTexture: Display: Building textures: Texture2D_246 (BGRA8, 64X64)
+[2019.05.29-23.17.06:717][300]LogTexture: Display: Building textures: Texture2D_247 (BGRA8, 64X64)
+[2019.05.29-23.17.07:940][300]LogTexture: Display: Building textures: Texture2D_248 (BGRA8, 64X64)
+[2019.05.29-23.17.16:630][300]LogTexture: Display: Building textures: Texture2D_249 (BGRA8, 64X64)
+[2019.05.29-23.17.36:998][300]LogTexture: Display: Building textures: Texture2D_250 (BGRA8, 64X64)
+[2019.05.29-23.17.49:659][300]LogTexture: Display: Building textures: Texture2D_251 (BGRA8, 64X64)
+[2019.05.29-23.17.51:669][300]LogTexture: Display: Building textures: Texture2D_252 (BGRA8, 64X64)
+[2019.05.29-23.17.53:336][300]LogTexture: Display: Building textures: Texture2D_253 (BGRA8, 64X64)
+[2019.05.29-23.17.54:573][300]LogTexture: Display: Building textures: Texture2D_254 (BGRA8, 64X64)
+[2019.05.29-23.17.55:941][300]LogTexture: Display: Building textures: Texture2D_255 (BGRA8, 64X64)
+[2019.05.29-23.17.57:036][300]LogTexture: Display: Building textures: Texture2D_256 (BGRA8, 64X64)
+[2019.05.29-23.17.58:838][300]LogTexture: Display: Building textures: Texture2D_257 (BGRA8, 64X64)
+[2019.05.29-23.18.03:126][300]LogTexture: Display: Building textures: Texture2D_258 (BGRA8, 64X64)
+[2019.05.29-23.18.05:203][300]LogTexture: Display: Building textures: Texture2D_259 (BGRA8, 64X64)
+[2019.05.29-23.18.07:935][300]LogTexture: Display: Building textures: Texture2D_260 (BGRA8, 64X64)
+[2019.05.29-23.18.10:324][300]LogTexture: Display: Building textures: Texture2D_261 (BGRA8, 64X64)
+[2019.05.29-23.18.12:160][300]LogTexture: Display: Building textures: Texture2D_262 (BGRA8, 64X64)
+[2019.05.29-23.18.13:055][300]LogTexture: Display: Building textures: Texture2D_263 (BGRA8, 64X64)
+[2019.05.29-23.18.13:870][300]LogTexture: Display: Building textures: Texture2D_264 (BGRA8, 64X64)
+[2019.05.29-23.18.15:178][300]LogTexture: Display: Building textures: Texture2D_265 (BGRA8, 64X64)
+[2019.05.29-23.18.17:005][300]LogTexture: Display: Building textures: Texture2D_266 (BGRA8, 64X64)
+[2019.05.29-23.18.17:897][300]LogTexture: Display: Building textures: Texture2D_267 (BGRA8, 64X64)
+[2019.05.29-23.18.20:073][300]LogTexture: Display: Building textures: Texture2D_268 (BGRA8, 64X64)
+[2019.05.29-23.18.22:379][300]LogTexture: Display: Building textures: Texture2D_269 (BGRA8, 64X64)
+[2019.05.29-23.18.24:709][300]LogTexture: Display: Building textures: Texture2D_270 (BGRA8, 64X64)
+[2019.05.29-23.18.27:327][300]LogTexture: Display: Building textures: Texture2D_271 (BGRA8, 64X64)
+[2019.05.29-23.19.42:401][300]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape2)
