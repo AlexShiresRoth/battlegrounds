@@ -1,5 +1,6 @@
 .vs
-/binaries
-/config
-/intermediate
-/saved
+binaries/
+config/
+intermediate/
+saved/
+content/
