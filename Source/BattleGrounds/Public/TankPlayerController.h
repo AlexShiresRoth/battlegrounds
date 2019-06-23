@@ -17,7 +17,7 @@ class BATTLEGROUNDS_API ATankPlayerController : public APlayerController
 
 public:
 
-	ATank* GetControllerTank() const;
+	ATank* GetControlledTank() const;
 
 	virtual void BeginPlay() override;
 	

@@ -1,0 +1,926 @@
+﻿Log file open, 06/23/19 13:34:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BattleGrounds
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 47.138240
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.768s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.044s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.23-17.35.10:671][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.23-17.35.10:671][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.23-17.35.10:691][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Engine.ini]
+[2019.06.23-17.35.10:691][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.23-17.35.10:691][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Engine.ini]
+[2019.06.23-17.35.10:691][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Engine.ini]
+[2019.06.23-17.35.10:691][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.23-17.35.10:691][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.23-17.35.10:691][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.23-17.35.10:691][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.23-17.35.10:691][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.23-17.35.10:691][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.23-17.35.10:691][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.23-17.35.10:691][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.23-17.35.10:691][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.23-17.35.10:691][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.23-17.35.10:691][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.23-17.35.10:691][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.23-17.35.10:691][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.23-17.35.10:691][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Engine.ini]
+[2019.06.23-17.35.10:691][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.23-17.35.10:691][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.23-17.35.10:692][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.23-17.35.10:692][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.23-17.35.10:692][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.23-17.35.10:692][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.23-17.35.10:692][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.23-17.35.10:692][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.23-17.35.10:692][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.23-17.35.10:692][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.23-17.35.10:692][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.23-17.35.10:692][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.23-17.35.10:692][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.23-17.35.10:692][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.23-17.35.10:692][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Engine.ini]
+[2019.06.23-17.35.10:692][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Engine.ini]
+[2019.06.23-17.35.11:477][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.23-17.35.11:477][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.23-17.35.11:478][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.23-17.35.11:530][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.23-17.35.11:578][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.23-17.35.12:576][  0]LogHAL: Display: Platform has ~ 8 GB [8383889408 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.23-17.35.12:761][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.23-17.35.12:761][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.23-17.35.12:850][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Scalability.ini]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2019.06.23-17.35.12:851][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.23-17.35.13:049][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.23-17.35.13:049][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Config/Windows/Engine.ini]
+[2019.06.23-17.35.13:105][  0]LogInit: Computer: DESKTOP-K3G4BCU
+[2019.06.23-17.35.13:105][  0]LogInit: User: alexr
+[2019.06.23-17.35.13:105][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.06.23-17.35.13:105][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.23-17.35.13:124][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2019.06.23-17.35.13:124][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.23-17.35.13:124][  0]LogMemory: Process Physical Memory: 104.07 MB used, 104.08 MB peak
+[2019.06.23-17.35.13:124][  0]LogMemory: Process Virtual Memory: 95.68 MB used, 95.68 MB peak
+[2019.06.23-17.35.13:124][  0]LogMemory: Physical Memory: 7431.83 MB used,  563.67 MB free, 7995.50 MB total
+[2019.06.23-17.35.13:124][  0]LogMemory: Virtual Memory: 4645.39 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.06.23-17.35.22:784][  0]LogInit: Using OS detected language (en-US).
+[2019.06.23-17.35.22:784][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.23-17.35.23:380][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.23-17.35.28:988][  0]LogStreaming: Display: Took  6.249s to InitEngineTextLocalization.
+[2019.06.23-17.35.29:108][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.23-17.35.34:393][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.23-17.35.34:393][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.23-17.35.57:707][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.23-17.35.57:707][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.23-17.35.59:694][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.06.23-17.35.59:694][  0]LogD3D11RHI:       128/0/3997 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.06.23-17.36.02:557][  0]LogD3D11RHI:    1. 'AMD Radeon (TM) RX 570' (Feature Level 11_0)
+[2019.06.23-17.36.02:557][  0]LogD3D11RHI:       4041/0/3997 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2019.06.23-17.36.02:652][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.23-17.36.02:652][  0]LogD3D11RHI:       0/0/3997 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.23-17.36.02:652][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2019.06.23-17.36.02:779][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.23-17.36.02:779][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2019.06.23-17.36.02:779][  0]LogWindows: EnumDisplayDevices:
+[2019.06.23-17.36.02:779][  0]LogWindows:    0. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.06.23-17.36.02:837][  0]LogWindows:    1. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.06.23-17.36.02:838][  0]LogWindows:    2. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.06.23-17.36.02:838][  0]LogWindows:    3. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.06.23-17.36.02:838][  0]LogWindows:    4. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.06.23-17.36.02:839][  0]LogWindows:    5. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.06.23-17.36.02:839][  0]LogWindows:    6. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.06.23-17.36.02:840][  0]LogWindows:    7. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.06.23-17.36.02:840][  0]LogWindows:    8. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.06.23-17.36.02:840][  0]LogWindows:    9. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.06.23-17.36.02:841][  0]LogWindows:    10. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.06.23-17.36.02:841][  0]LogWindows:    11. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.06.23-17.36.02:841][  0]LogWindows:    12. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.06.23-17.36.02:842][  0]LogWindows:    13. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.06.23-17.36.02:842][  0]LogWindows:    14. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.06.23-17.36.02:843][  0]LogWindows:    15. 'AMD Radeon (TM) RX 570' (P:0 D:0)
+[2019.06.23-17.36.02:843][  0]LogWindows:    16. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.06.23-17.36.02:843][  0]LogWindows:    17. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.06.23-17.36.02:844][  0]LogWindows:    18. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.06.23-17.36.02:844][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:16 
+[2019.06.23-17.36.02:844][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) RX 570
+[2019.06.23-17.36.02:844][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.7 (internal:23.20.768.12, unified:23.20.768.12)
+[2019.06.23-17.36.02:844][  0]LogD3D11RHI:      Driver Date: 10-26-2017
+[2019.06.23-17.36.02:844][  0]LogRHI: Texture pool is 2828 MB (70% of 4041 MB)
+[2019.06.23-17.36.05:666][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.23-17.36.07:549][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 6)
+[2019.06.23-17.36.18:403][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.23-17.36.18:477][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.23-17.36.18:552][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.23-17.36.18:591][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.23-17.36.18:746][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.23-17.36.18:809][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.23-17.36.18:844][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.23-17.36.18:896][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.23-17.36.18:955][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.23-17.36.19:108][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.23-17.36.19:108][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.23-17.36.19:108][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.23-17.36.19:108][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.23-17.36.19:108][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.23-17.36.19:108][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.23-17.36.19:108][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.23-17.36.19:108][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.23-17.36.19:108][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.23-17.36.19:108][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.23-17.36.19:108][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.23-17.36.19:108][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.23-17.36.19:108][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.23-17.36.19:108][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.23-17.36.19:108][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.23-17.36.19:108][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.23-17.36.19:108][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.23-17.36.19:108][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.23-17.36.19:168][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.23-17.36.19:577][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.23-17.36.19:577][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.23-17.36.19:609][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.23-17.36.19:609][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.23-17.36.19:638][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.23-17.36.19:680][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.23-17.36.19:710][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.23-17.36.19:788][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.23-17.36.19:923][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.23-17.36.19:923][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.23-17.36.19:923][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.23-17.36.23:332][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Intermediate/Shaders/WorkingDirectory/25020/).
+[2019.06.23-17.36.23:332][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alexr/AppData/Local/Temp/UnrealShaderWorkingDir/67DE8AF5415FCDD090E84CB6D8EF6B43/'.
+[2019.06.23-17.36.23:379][  0]LogXGEController: Cleaning working directory: C:/Users/alexr/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.23-17.36.23:380][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.23-17.36.23:380][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.23-17.36.23:380][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.23-17.36.41:011][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.23-17.36.43:136][  0]LogDerivedDataCache: Loaded boot cache 2.12s 71MB C:/Users/alexr/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.23-17.36.43:136][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alexr/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.23-17.36.43:147][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.23-17.36.43:147][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.23-17.36.43:147][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.23-17.36.43:148][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.23-17.36.43:850][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.23-17.36.43:850][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.23-17.36.43:850][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.23-17.36.43:922][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alexr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.23-17.36.43:922][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.23-17.36.43:922][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.23-17.36.44:714][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.23-17.36.46:611][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.23-17.36.49:791][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.23-17.37.02:514][  0]LogAssetRegistry: FAssetRegistry took 0.0594 seconds to start up
+[2019.06.23-17.37.16:441][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.23-17.37.24:983][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.23-17.37.25:559][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.23-17.37.25:566][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.23-17.37.25:669][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.23-17.37.25:669][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.23-17.37.27:495][  0]LogNetVersion: BattleGrounds 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3651256072)
+[2019.06.23-17.37.56:177][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.912081 seconds
+[2019.06.23-17.37.56:241][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.23-17.37.56:241][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.06.23-17.37.56:241][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.23-17.39.35:537][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.23-17.39.35:696][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.23-17.39.48:493][  0]SourceControl: Source control is disabled
+[2019.06.23-17.39.48:595][  0]SourceControl: Source control is disabled
+[2019.06.23-17.39.49:156][  0]SourceControl: Source control is disabled
+[2019.06.23-17.39.49:678][  0]SourceControl: Source control is disabled
+[2019.06.23-17.40.00:196][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.23-17.40.02:059][  0]LogOcInput: OculusInput pre-init called
+[2019.06.23-17.40.10:348][  0]LogAutomationTest: Warning: Smoke tests took > 2s to run: 3.22s
+[2019.06.23-17.40.10:839][  0]LogEngine: Initializing Engine...
+[2019.06.23-17.40.10:972][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.23-17.40.11:124][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.23-17.40.11:124][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.23-17.40.11:124][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.23-17.40.11:124][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.23-17.40.17:871][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.23-17.40.21:605][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.23-17.40.23:207][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.23-17.40.24:863][  0]LogInit: FAudioDevice initialized.
+[2019.06.23-17.40.25:311][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.23-17.40.27:901][  0]LogDerivedDataCache: Saved boot cache 2.24s 71MB C:/Users/alexr/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.23-17.40.28:473][  0]LogInit: Texture streaming: Enabled
+[2019.06.23-17.40.39:373][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.23-17.40.39:376][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={B366E6AB-4D9A-49EB-8AE1-3F9D122D0337}
+[2019.06.23-17.40.44:276][  0]LogInit: Transaction tracking system initialized
+[2019.06.23-17.40.46:715][  0]BlueprintLog: New page: Editor Load
+[2019.06.23-17.40.56:271][  0]LocalizationService: Localization service is disabled
+[2019.06.23-17.41.20:855][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.23-17.41.21:062][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.23-17.41.21:149][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.23-17.41.21:149][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.23-17.41.21:149][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.23-17.41.21:149][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.23-17.41.21:149][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.23-17.41.22:472][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Content/' took 1.76s
+[2019.06.23-17.41.36:494][  0]SourceControl: Source control is disabled
+[2019.06.23-17.41.36:931][  0]Cmd: MAP LOAD FILE="../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Content/BattleGround.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.23-17.41.37:253][  0]LightingResults: New page: Lighting Build
+[2019.06.23-17.41.37:777][  0]MapCheck: New page: Map Check
+[2019.06.23-17.41.37:777][  0]LightingResults: New page: Lighting Build
+[2019.06.23-17.42.17:484][  0]LogAIModule: Creating AISystem for world BattleGround
+[2019.06.23-17.44.17:526][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.06.23-17.44.18:630][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.23-17.44.18:718][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 38.207ms to complete.
+[2019.06.23-17.44.18:731][  0]LogFileHelpers: Loading map 'BattleGround' took 161.961
+[2019.06.23-17.44.33:131][  0]LogCollectionManager: Loaded 0 collections in 0.001695 seconds
+[2019.06.23-17.44.34:261][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Collections/' took 0.01s
+[2019.06.23-17.44.34:261][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Content/Developers/alexr/Collections/' took 0.01s
+[2019.06.23-17.44.34:261][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Content/Collections/' took 0.00s
+[2019.06.23-17.44.34:261][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.23-17.44.34:414][  0]LogContentBrowser: Native class hierarchy populated in 0.1075 seconds. Added 2655 classes and 625 folders.
+[2019.06.23-17.44.35:023][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.23-17.44.35:325][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.35:626][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.35:705][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.35:862][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.35:868][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.35:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.35:965][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.36:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.36:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.36:407][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.36:514][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.36:519][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.36:558][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.36:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.36:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.36:724][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.36:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.36:844][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.36:899][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.37:000][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.37:088][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.37:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.37:171][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.37:215][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.37:307][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.37:386][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.23-17.44.40:167][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.23-17.44.42:626][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.23-17.44.42:871][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.23-17.44.42:878][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.23-17.44.42:884][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.23-17.45.06:797][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.06.23-17.45.09:904][  0]LogSlate: Took 0.200308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.23-17.45.11:413][  0]LogSlate: Took 0.907402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.23-17.45.11:502][  0]LogSlate: Took 0.088441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.23-17.45.12:533][  0]LogSlate: Took 0.619676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.06.23-17.45.14:070][  0]LogSlate: Took 0.045851 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.23-17.45.17:531][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BattleGrounds
+[2019.06.23-17.45.17:532][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.06.23-17.45.17:532][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.06.23-17.45.17:532][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.06.23-17.45.17:532][  0]LogTemp: BranchPath = DESKTOP-K3G4BCU/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-K3G4BCU/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.06.23-17.45.17:532][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\alexr\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.06.23-17.45.17:532][  0]LogRenderer: Reallocating scene render targets to support 1480x472 Format 9 NumSamples 1 (Frame:1).
+[2019.06.23-17.45.24:687][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.23-17.45.24:688][  0]LogLoad: (Engine Initialization) Total time: 766.87 seconds
+[2019.06.23-17.45.24:688][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.23-17.45.32:264][  0]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 2. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2019.06.23-17.45.32:264][  0]LogContentStreaming: Texture pool size now 800 MB
+[2019.06.23-17.45.38:299][  2]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.23-17.45.39:621][ 11]LogAssetRegistry: Asset discovery search completed in 517.1402 seconds
+[2019.06.23-17.45.39:725][ 11]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.06.23-17.45.39:726][ 11]LogCollectionManager: Fixed up redirectors for 0 collections in 0.059768 seconds (updated 0 objects)
+[2019.06.23-18.09.24:297][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.23-18.09.31:201][260]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/tankparts/tank_fbx_Body_hull.tank_fbx_Body_hull
+[2019.06.23-18.10.09:319][260]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/tankparts/tank2_bp.tank2_bp
+[2019.06.23-18.10.23:275][260]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.1898 seconds. Added 117 classes and 0 folders.
+[2019.06.23-18.10.44:805][260]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ui.ui
+[2019.06.23-18.10.53:689][260]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/menuwidget.menuwidget
+[2019.06.23-18.11.04:049][260]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/tankparts/TankPlayerController.TankPlayerController
+[2019.06.23-18.11.08:818][260]LogSlate: Took 0.166652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.23-18.11.14:336][261]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.23-18.11.15:679][261]LogSlate: Took 0.046044 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.23-18.11.24:890][409]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (10.564 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.23-18.43.52:302][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.23-18.43.56:896][ 72]Candidate modules for hot reload:
+[2019.06.23-18.43.56:896][ 72]  BattleGrounds
+[2019.06.23-18.43.57:088][ 72]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleGrounds,841 Win64 Development -TargetType=Editor -Project="../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/BattleGrounds.uproject" -canskiplink "C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/BattleGrounds.uproject" ]
+[2019.06.23-18.43.57:276][ 72]Warning: Starting HotReload took  3.1s.
+[2019.06.23-18.54.40:279][919]CompilerResultsLog: New page: Compilation - Jun 23, 2019, 10:54:37 AM
+[2019.06.23-18.54.41:159][919]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\alexr\OneDrive\Documents\Unreal Projects\BattleGrounds).
+[2019.06.23-18.54.41:207][919]CompilerResultsLog: Creating makefile for hot reloading BattleGroundsEditor (.uproject file is newer)
+[2019.06.23-18.54.41:252][919]CompilerResultsLog: Compiling game modules for hot reload
+[2019.06.23-18.54.41:252][919]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.06.23-18.54.41:253][919]CompilerResultsLog: Parsing headers for BattleGroundsEditor
+[2019.06.23-18.54.41:253][919]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\alexr\OneDrive\Documents\Unreal Projects\BattleGrounds\BattleGrounds.uproject" "C:\Users\alexr\OneDrive\Documents\Unreal Projects\BattleGrounds\Intermediate\Build\Win64\BattleGroundsEditor\Development\BattleGroundsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.06.23-18.54.41:253][919]CompilerResultsLog: Reflection code generated for BattleGroundsEditor in 66.5530797 seconds
+[2019.06.23-18.54.41:254][919]CompilerResultsLog: Building 10 actions with 6 processes...
+[2019.06.23-18.54.41:254][919]CompilerResultsLog:   [1/10] TankPlayerController.cpp
+[2019.06.23-18.54.41:270][919]CompilerResultsLog:   C:\Users\alexr\OneDrive\Documents\Unreal Projects\BattleGrounds\Source\BattleGrounds\Private\TankPlayerController.cpp(18): fatal error C1057: unexpected end of file in macro expansion
+[2019.06.23-18.54.41:270][919]CompilerResultsLog:   [2/10] BattleGrounds.init.gen.cpp
+[2019.06.23-18.54.41:270][919]CompilerResultsLog:   [3/10] BattleGrounds.cpp
+[2019.06.23-18.54.41:270][919]CompilerResultsLog:   [4/10] Tank.cpp
+[2019.06.23-18.54.41:271][919]CompilerResultsLog:   [5/10] Tank.gen.cpp
+[2019.06.23-18.54.41:271][919]CompilerResultsLog:   [6/10] BattleGroundsGameModeBase.cpp
+[2019.06.23-18.54.41:313][919]CompilerResultsLog:   [7/10] TankPlayerController.gen.cpp
+[2019.06.23-18.54.41:322][919]CompilerResultsLog:   [8/10] BattleGroundsGameModeBase.gen.cpp
+[2019.06.23-18.54.41:335][919]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: C:\Users\alexr\OneDrive\Documents\Unreal Projects\BattleGrounds\Binaries\Win64\UE4Editor-BattleGrounds-841.dll
+[2019.06.23-18.54.41:371][919]CompilerResultsLog:        (see ../Programs/UnrealBuildTool/Log.txt for full exception trace)
+[2019.06.23-18.54.41:371][919]CompilerResultsLog: Total build time: 635.46 seconds (Parallel executor: 0.00 seconds)
+[2019.06.23-18.54.41:426][919]LogMainFrame: MainFrame: Module compiling took 646.085 seconds
+[2019.06.23-18.54.41:558][919]Warning: HotReload failed, recompile failed
+[2019.06.23-18.55.45:645][291]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.23-18.55.55:905][291]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-18.55.56:274][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.23-18.55.56:424][291]PIE: New page: PIE session: BattleGround (Jun 23, 2019, 10:55:56 AM)
+[2019.06.23-18.55.58:538][291]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleGround
+[2019.06.23-18.56.24:195][291]LogPlayLevel: PIE: StaticDuplicateObject took: (25.504850s)
+[2019.06.23-18.56.24:551][291]LogAIModule: Creating AISystem for world BattleGround
+[2019.06.23-18.56.24:899][291]LogPlayLevel: PIE: World Init took: (0.641135s)
+[2019.06.23-18.56.24:944][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGround.BattleGround to /Game/UEDPIE_0_BattleGround.BattleGround (26.422125s)
+[2019.06.23-18.56.42:235][291]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.23-18.56.43:526][291]LogInit: FAudioDevice initialized.
+[2019.06.23-18.56.48:150][291]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2019.06.23-18.56.50:541][291]LogWorld: Bringing World /Game/UEDPIE_0_BattleGround.BattleGround up for play (max tick rate 0) at 2019.06.23-14.56.50
+[2019.06.23-18.56.50:787][291]LogWorld: Bringing up level for play took: 2.377847
+[2019.06.23-18.56.57:761][291]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.1443 seconds. Added 20 classes and 0 folders.
+[2019.06.23-18.56.57:817][291]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.23-18.56.57:860][291]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.23-18.56.57:871][291]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.06.23-18.56.59:103][291]LogTemp: Warning: PlayerController begin play
+[2019.06.23-18.56.59:122][291]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.06.23-18.56.59:287][291]PIE: Play in editor start time for /Game/UEDPIE_0_BattleGround 69.847
+[2019.06.23-18.56.59:530][291]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-18.57.25:151][658]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (23.326 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.23-18.57.45:210][903]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-18.57.45:600][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.23-18.57.47:139][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.23-18.57.47:186][903]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-18.57.47:830][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.23-18.57.49:236][904]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.06.23-19.10.52:627][541]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.23-19.11.01:088][541]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.11.01:220][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.23-19.11.01:483][541]PIE: New page: PIE session: BattleGround (Jun 23, 2019, 11:11:01 AM)
+[2019.06.23-19.11.01:669][541]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleGround
+[2019.06.23-19.11.13:125][541]LogPlayLevel: PIE: StaticDuplicateObject took: (11.298277s)
+[2019.06.23-19.11.14:257][541]LogAIModule: Creating AISystem for world BattleGround
+[2019.06.23-19.11.14:430][541]LogPlayLevel: PIE: World Init took: (1.304444s)
+[2019.06.23-19.11.14:503][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGround.BattleGround to /Game/UEDPIE_0_BattleGround.BattleGround (12.833920s)
+[2019.06.23-19.11.21:021][541]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.23-19.11.22:496][541]LogInit: FAudioDevice initialized.
+[2019.06.23-19.11.23:226][541]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2019.06.23-19.11.24:647][541]LogWorld: Bringing World /Game/UEDPIE_0_BattleGround.BattleGround up for play (max tick rate 0) at 2019.06.23-15.11.24
+[2019.06.23-19.11.24:710][541]LogWorld: Bringing up level for play took: 1.389453
+[2019.06.23-19.11.25:240][541]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.23-19.11.25:241][541]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.23-19.11.25:279][541]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.06.23-19.11.25:589][541]LogTemp: Warning: PlayerController begin play
+[2019.06.23-19.11.25:589][541]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.06.23-19.11.25:590][541]PIE: Play in editor start time for /Game/UEDPIE_0_BattleGround 30.247
+[2019.06.23-19.11.25:734][541]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.12.19:398][981]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.12.19:499][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.23-19.12.20:458][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.23-19.12.20:459][981]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.12.20:865][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.23-19.12.21:306][982]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.06.23-19.12.23:462][ 74]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.23-19.12.23:582][ 74]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.12.23:583][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.23-19.12.23:583][ 74]PIE: New page: PIE session: BattleGround (Jun 23, 2019, 11:12:23 AM)
+[2019.06.23-19.12.23:583][ 74]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleGround
+[2019.06.23-19.12.24:247][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.663516s)
+[2019.06.23-19.12.24:247][ 74]LogAIModule: Creating AISystem for world BattleGround
+[2019.06.23-19.12.24:300][ 74]LogPlayLevel: PIE: World Init took: (0.053350s)
+[2019.06.23-19.12.24:300][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGround.BattleGround to /Game/UEDPIE_0_BattleGround.BattleGround (0.717394s)
+[2019.06.23-19.12.24:888][ 74]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.23-19.12.25:348][ 74]LogInit: FAudioDevice initialized.
+[2019.06.23-19.12.26:946][ 74]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2019.06.23-19.12.27:442][ 74]LogWorld: Bringing World /Game/UEDPIE_0_BattleGround.BattleGround up for play (max tick rate 0) at 2019.06.23-15.12.27
+[2019.06.23-19.12.27:443][ 74]LogWorld: Bringing up level for play took: 0.496055
+[2019.06.23-19.12.27:463][ 74]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.23-19.12.27:463][ 74]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.23-19.12.27:463][ 74]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.06.23-19.12.27:465][ 74]LogTemp: Warning: PlayerController begin play
+[2019.06.23-19.12.27:465][ 74]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.06.23-19.12.27:465][ 74]PIE: Play in editor start time for /Game/UEDPIE_0_BattleGround 4.122
+[2019.06.23-19.12.27:475][ 74]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.13.05:557][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.13.05:575][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.23-19.13.05:646][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.23-19.13.05:646][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.13.05:687][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.23-19.13.05:845][405]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.06.23-19.13.12:066][842]Candidate modules for hot reload:
+[2019.06.23-19.13.12:066][842]  BattleGrounds
+[2019.06.23-19.13.12:180][842]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleGrounds,5429 Win64 Development -TargetType=Editor -Project="../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/BattleGrounds.uproject" -canskiplink "C:/Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/BattleGrounds.uproject" ]
+[2019.06.23-19.13.12:276][842]Warning: Starting HotReload took  1.1s.
+[2019.06.23-19.17.55:714][399]CompilerResultsLog: New page: Compilation - Jun 23, 2019, 11:17:55 AM
+[2019.06.23-19.17.55:714][399]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\alexr\OneDrive\Documents\Unreal Projects\BattleGrounds).
+[2019.06.23-19.17.55:715][399]CompilerResultsLog: Creating makefile for hot reloading BattleGroundsEditor (modules to compile have changed)
+[2019.06.23-19.17.55:715][399]CompilerResultsLog: Compiling game modules for hot reload
+[2019.06.23-19.17.55:715][399]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.06.23-19.17.55:715][399]CompilerResultsLog: Target is up to date
+[2019.06.23-19.17.55:715][399]CompilerResultsLog: Total build time: 276.55 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2019.06.23-19.17.55:715][399]LogMainFrame: MainFrame: Module compiling took 283.711 seconds
+[2019.06.23-19.18.13:623][399]LogContentBrowser: Native class hierarchy populated in 2.5633 seconds. Added 2655 classes and 625 folders.
+[2019.06.23-19.18.37:636][399]Display: HotReload took 326.4s.
+[2019.06.23-19.19.24:892][  3]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (47.254 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.23-19.23.44:787][791]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.06.23-19.25.44:516][168]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.23-19.26.06:434][168]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.26.08:471][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.23-19.26.08:588][168]PIE: New page: PIE session: BattleGround (Jun 23, 2019, 11:26:08 AM)
+[2019.06.23-19.26.10:302][168]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleGround
+[2019.06.23-19.26.43:043][168]LogPlayLevel: PIE: StaticDuplicateObject took: (32.586815s)
+[2019.06.23-19.26.46:200][168]LogAIModule: Creating AISystem for world BattleGround
+[2019.06.23-19.26.47:015][168]LogPlayLevel: PIE: World Init took: (3.704890s)
+[2019.06.23-19.26.47:158][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGround.BattleGround to /Game/UEDPIE_0_BattleGround.BattleGround (37.257252s)
+[2019.06.23-19.27.03:859][168]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.23-19.27.04:945][168]LogInit: FAudioDevice initialized.
+[2019.06.23-19.27.08:215][168]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2019.06.23-19.27.11:356][168]LogWorld: Bringing World /Game/UEDPIE_0_BattleGround.BattleGround up for play (max tick rate 0) at 2019.06.23-15.27.11
+[2019.06.23-19.27.11:802][168]LogWorld: Bringing up level for play took: 3.031226
+[2019.06.23-19.27.16:961][168]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.23-19.27.16:985][168]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.23-19.27.17:004][168]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.06.23-19.27.18:218][168]LogTemp: Warning: PlayerController begin play
+[2019.06.23-19.27.18:220][168]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.06.23-19.27.18:577][168]PIE: Play in editor start time for /Game/UEDPIE_0_BattleGround 85.038
+[2019.06.23-19.27.20:784][168]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.27.30:113][170]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (5.939 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.23-19.28.08:810][992]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.28.09:139][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.23-19.28.15:478][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.23-19.28.15:545][992]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.28.16:514][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.23-19.28.18:655][993]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.06.23-19.29.03:021][411]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.23-19.29.04:849][411]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.29.04:849][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.23-19.29.04:850][411]PIE: New page: PIE session: BattleGround (Jun 23, 2019, 11:29:04 AM)
+[2019.06.23-19.29.04:850][411]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleGround
+[2019.06.23-19.29.06:592][411]LogPlayLevel: PIE: StaticDuplicateObject took: (1.741629s)
+[2019.06.23-19.29.06:836][411]LogAIModule: Creating AISystem for world BattleGround
+[2019.06.23-19.29.06:905][411]LogPlayLevel: PIE: World Init took: (0.312659s)
+[2019.06.23-19.29.06:905][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGround.BattleGround to /Game/UEDPIE_0_BattleGround.BattleGround (2.054902s)
+[2019.06.23-19.29.07:280][411]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.23-19.29.07:851][411]LogInit: FAudioDevice initialized.
+[2019.06.23-19.29.08:427][411]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2019.06.23-19.29.08:464][411]LogWorld: Bringing World /Game/UEDPIE_0_BattleGround.BattleGround up for play (max tick rate 0) at 2019.06.23-15.29.08
+[2019.06.23-19.29.08:465][411]LogWorld: Bringing up level for play took: 0.021502
+[2019.06.23-19.29.08:477][411]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.23-19.29.08:477][411]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.23-19.29.08:477][411]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.06.23-19.29.08:486][411]LogTemp: Warning: PlayerController begin play
+[2019.06.23-19.29.08:486][411]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.06.23-19.29.08:486][411]PIE: Play in editor start time for /Game/UEDPIE_0_BattleGround 3.143
+[2019.06.23-19.29.08:486][411]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.29.31:890][304]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.29.31:902][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.23-19.29.32:052][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.23-19.29.32:052][304]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.29.33:424][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.23-19.29.35:127][305]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.06.23-19.29.38:972][546]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.23-19.29.49:288][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.23-19.29.49:396][239]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.23-19.29.51:027][239]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.29.51:027][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.23-19.29.51:027][239]PIE: New page: PIE session: BattleGround (Jun 23, 2019, 11:29:51 AM)
+[2019.06.23-19.29.51:028][239]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleGround
+[2019.06.23-19.29.51:588][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.560630s)
+[2019.06.23-19.29.51:589][239]LogAIModule: Creating AISystem for world BattleGround
+[2019.06.23-19.29.51:590][239]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2019.06.23-19.29.51:590][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleGround.BattleGround to /Game/UEDPIE_0_BattleGround.BattleGround (0.562196s)
+[2019.06.23-19.29.51:632][239]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.23-19.29.51:764][239]LogInit: FAudioDevice initialized.
+[2019.06.23-19.29.51:910][239]LogLoad: Game class is 'BattleTankGameMode_BP_C'
+[2019.06.23-19.29.51:933][239]LogWorld: Bringing World /Game/UEDPIE_0_BattleGround.BattleGround up for play (max tick rate 0) at 2019.06.23-15.29.51
+[2019.06.23-19.29.51:934][239]LogWorld: Bringing up level for play took: 0.022610
+[2019.06.23-19.29.51:947][239]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.23-19.29.51:947][239]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.23-19.29.51:947][239]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.06.23-19.29.52:104][239]LogTemp: Warning: PlayerController begin play
+[2019.06.23-19.29.52:104][239]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.06.23-19.29.52:104][239]PIE: Play in editor start time for /Game/UEDPIE_0_BattleGround 0.761
+[2019.06.23-19.29.52:145][239]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.30.07:799][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.30.07:801][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.23-19.30.07:920][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.23-19.30.07:928][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2019.06.23-19.30.07:989][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.23-19.30.08:004][870]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.06.23-19.32.12:325][993]LogSavePackage: Moving '../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/BattleGround90B52FAB434B06255F10CABC5967F8C9.tmp' to '../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Content/BattleGround.umap'
+[2019.06.23-19.32.20:262][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleGround_BuiltData" FILE="../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Content/BattleGround_BuiltData.uasset" SILENT=true
+[2019.06.23-19.32.49:273][993]LogSavePackage: Moving '../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/BattleGround_BuiltDataA11D50204EF9A246A3D5B18840DB41A6.tmp' to '../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Content/BattleGround_BuiltData.uasset'
+[2019.06.23-19.32.57:504][994]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.23-19.32.57:527][994]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.023 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.23-19.33.24:900][ 72]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (27.397 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.23-19.42.50:359][585]LogSlate: Window 'TankPlayerController' being destroyed
+[2019.06.23-19.42.50:842][585]LogSlate: Window 'TankPlayerController' being destroyed
+[2019.06.23-19.43.48:659][585]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.23-19.43.52:967][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.23-19.44.09:051][586]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BattleGround' took 11.089
+[2019.06.23-19.44.09:594][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BattleTankGameMode_BP] ([1] browsable assets)...
+[2019.06.23-19.44.09:858][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BattleTankGameMode_BP]
+[2019.06.23-19.44.12:222][586]LogSavePackage: Moving '../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/BattleTankGameMode_BP_Auto11DD548FA4E478C5075B5C98C7C6C3C98.tmp' to '../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/Autosaves/Game/Blueprints/BattleTankGameMode_BP_Auto1.uasset'
+[2019.06.23-19.44.12:312][586]LogFileHelpers: Auto-saving content packages took 3.241
+[2019.06.23-19.44.24:897][906]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (29.242 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.23-19.44.39:730][431]Cmd: CLOSE_SLATE_MAINFRAME
+[2019.06.23-19.44.46:910][431]LogSlate: Window 'Save Content' being destroyed
+[2019.06.23-19.44.47:695][431]LogSavePackage: Moving '../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Saved/BattleTankGameMode_BP99CE20414A08A42BF38969A1A40A878B.tmp' to '../../../../../../Users/alexr/OneDrive/Documents/Unreal Projects/BattleGrounds/Content/Blueprints/BattleTankGameMode_BP.uasset'
+[2019.06.23-19.44.48:504][431]LogSlate: Window 'Project Settings' being destroyed
+[2019.06.23-19.44.56:374][431]LogSlate: Window 'BattleGrounds - Unreal Editor' being destroyed
+[2019.06.23-19.44.56:580][431]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.23-19.45.05:380][432]Cmd: QUIT_EDITOR
+[2019.06.23-19.45.09:186][432]LogExit: Preparing to exit.
+[2019.06.23-19.45.41:636][432]LogExit: Editor shut down
+[2019.06.23-19.45.41:723][432]LogExit: Transaction tracking system shut down
+[2019.06.23-19.47.29:702][432]LogExit: Object subsystem successfully closed.
+[2019.06.23-19.47.43:909][432]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.23-19.47.45:812][432]LogD3D11RHI: Shutdown
+[2019.06.23-19.47.45:812][432]LogD3D11RHI: CleanupD3DDevice
+[2019.06.23-19.47.48:286][432]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.23-19.48.29:376][432]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (636)
+[2019.06.23-19.48.29:380][432]LogModuleManager: Shutting down and abandoning module Voice (634)
+[2019.06.23-19.48.29:455][432]LogModuleManager: Shutting down and abandoning module SequencerWidgets (632)
+[2019.06.23-19.48.29:455][432]LogModuleManager: Shutting down and abandoning module BlueprintGraph (630)
+[2019.06.23-19.48.29:455][432]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (628)
+[2019.06.23-19.48.29:466][432]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (626)
+[2019.06.23-19.48.29:475][432]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (624)
+[2019.06.23-19.48.29:475][432]LogModuleManager: Shutting down and abandoning module AddContentDialog (622)
+[2019.06.23-19.48.30:748][432]LogModuleManager: Shutting down and abandoning module WidgetCarousel (621)
+[2019.06.23-19.48.30:748][432]LogModuleManager: Shutting down and abandoning module EditorWidgets (618)
+[2019.06.23-19.48.30:748][432]LogModuleManager: Shutting down and abandoning module CollectionManager (616)
+[2019.06.23-19.48.30:777][432]LogModuleManager: Shutting down and abandoning module SceneOutliner (614)
+[2019.06.23-19.48.30:873][432]LogModuleManager: Shutting down and abandoning module StatsViewer (612)
+[2019.06.23-19.48.30:937][432]LogModuleManager: Shutting down and abandoning module FoliageEdit (610)
+[2019.06.23-19.48.30:954][432]LogModuleManager: Shutting down and abandoning module LandscapeEditor (608)
+[2019.06.23-19.48.31:344][432]LogModuleManager: Shutting down and abandoning module MeshPaintMode (606)
+[2019.06.23-19.48.31:429][432]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (604)
+[2019.06.23-19.48.31:429][432]LogModuleManager: Shutting down and abandoning module ActorPickerMode (602)
+[2019.06.23-19.48.31:429][432]LogModuleManager: Shutting down and abandoning module GeometryMode (600)
+[2019.06.23-19.48.31:485][432]LogModuleManager: Shutting down and abandoning module TextureAlignMode (598)
+[2019.06.23-19.48.31:485][432]LogModuleManager: Shutting down and abandoning module BspMode (596)
+[2019.06.23-19.48.31:514][432]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (594)
+[2019.06.23-19.48.31:635][432]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (592)
+[2019.06.23-19.48.31:721][432]LogModuleManager: Shutting down and abandoning module AutomationWorker (590)
+[2019.06.23-19.48.31:770][432]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (588)
+[2019.06.23-19.48.31:788][432]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (586)
+[2019.06.23-19.48.31:996][432]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (584)
+[2019.06.23-19.48.32:455][432]LogModuleManager: Shutting down and abandoning module PlacementMode (583)
+[2019.06.23-19.48.32:456][432]LogModuleManager: Shutting down and abandoning module MaterialEditor (582)
+[2019.06.23-19.48.32:669][432]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (578)
+[2019.06.23-19.48.32:690][432]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (576)
+[2019.06.23-19.48.32:690][432]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (574)
+[2019.06.23-19.48.32:705][432]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (572)
+[2019.06.23-19.48.32:705][432]LogModuleManager: Shutting down and abandoning module WebMMedia (570)
+[2019.06.23-19.48.32:759][432]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (568)
+[2019.06.23-19.48.32:889][432]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (566)
+[2019.06.23-19.48.33:072][432]LogModuleManager: Shutting down and abandoning module SequenceRecorder (565)
+[2019.06.23-19.48.33:088][432]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (562)
+[2019.06.23-19.48.33:089][432]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (560)
+[2019.06.23-19.48.33:089][432]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (558)
+[2019.06.23-19.48.33:089][432]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (556)
+[2019.06.23-19.48.33:089][432]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (554)
+[2019.06.23-19.48.33:089][432]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (552)
+[2019.06.23-19.48.33:089][432]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (550)
+[2019.06.23-19.48.33:089][432]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (548)
+[2019.06.23-19.48.33:089][432]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (546)
+[2019.06.23-19.48.33:107][432]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (544)
+[2019.06.23-19.48.33:107][432]LogModuleManager: Shutting down and abandoning module CharacterAI (542)
+[2019.06.23-19.48.33:107][432]LogModuleManager: Shutting down and abandoning module SmartSnapping (540)
+[2019.06.23-19.48.33:136][432]LogModuleManager: Shutting down and abandoning module SessionServices (538)
+[2019.06.23-19.48.33:136][432]LogModuleManager: Shutting down and abandoning module ViewportSnapping (536)
+[2019.06.23-19.48.33:136][432]LogModuleManager: Shutting down and abandoning module ViewportInteraction (534)
+[2019.06.23-19.48.33:156][432]LogModuleManager: Shutting down and abandoning module ClothPainter (532)
+[2019.06.23-19.48.33:507][432]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (531)
+[2019.06.23-19.48.33:663][432]LogModuleManager: Shutting down and abandoning module LogVisualizer (528)
+[2019.06.23-19.48.34:026][432]LogModuleManager: Shutting down and abandoning module IntroTutorials (526)
+[2019.06.23-19.48.34:277][432]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (525)
+[2019.06.23-19.48.34:447][432]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (522)
+[2019.06.23-19.48.34:447][432]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (520)
+[2019.06.23-19.48.34:522][432]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (518)
+[2019.06.23-19.48.34:522][432]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (516)
+[2019.06.23-19.48.34:537][432]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (515)
+[2019.06.23-19.48.35:561][432]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (512)
+[2019.06.23-19.48.35:565][432]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (510)
+[2019.06.23-19.48.35:565][432]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (508)
+[2019.06.23-19.48.35:565][432]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (506)
+[2019.06.23-19.48.35:565][432]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (504)
+[2019.06.23-19.48.35:816][432]LogModuleManager: Shutting down and abandoning module InputBindingEditor (502)
+[2019.06.23-19.48.36:913][432]LogModuleManager: Shutting down and abandoning module MergeActors (500)
+[2019.06.23-19.48.37:527][432]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (498)
+[2019.06.23-19.48.38:090][432]LogModuleManager: Shutting down and abandoning module LocalizationService (497)
+[2019.06.23-19.48.38:188][432]LogModuleManager: Shutting down and abandoning module HardwareTargeting (494)
+[2019.06.23-19.48.38:188][432]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (492)
+[2019.06.23-19.48.38:312][432]LogModuleManager: Shutting down and abandoning module UndoHistory (490)
+[2019.06.23-19.48.38:340][432]LogModuleManager: Shutting down and abandoning module XmlParser (488)
+[2019.06.23-19.48.38:491][432]LogModuleManager: Shutting down and abandoning module Blutility (486)
+[2019.06.23-19.48.38:898][432]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (484)
+[2019.06.23-19.48.39:682][432]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (483)
+[2019.06.23-19.48.40:264][432]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (480)
